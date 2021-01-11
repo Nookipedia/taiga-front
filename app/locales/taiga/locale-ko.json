@@ -39,7 +39,7 @@
         "NEXT": "다음",
         "LOGOUT": "로그아웃",
         "EXTERNAL_USER": "외부 사용자",
-        "GENERIC_ERROR": "The Taiga says {{error}}.",
+        "GENERIC_ERROR": "Nookipedia Tasks says {{error}}.",
         "IOCAINE_TEXT": "This member is feeling a bit overwhelmed by this task. They will become immune to the iocaine poison over time with your help. For now, they may need a hug.",
         "CLIENT_REQUIREMENT": "A client requirement is a new requirement that was not previously expected and is required to be part of the project",
         "TEAM_REQUIREMENT": "A team requirement is a requirement that must exist in the project but should have no cost for the client",
@@ -331,8 +331,8 @@
         "ALT_LOGIN": "또는 다른 방법으로 로그인"
     },
     "LOGIN_FORM": {
-        "ERROR_AUTH_INCORRECT": "According to the Taiga, your username/email or password are incorrect.",
-        "SUCCESS": "Welcome to Taiga."
+        "ERROR_AUTH_INCORRECT": "According to Nookipedia Tasks, your username/email or password are incorrect.",
+        "SUCCESS": "Welcome to Nookipedia Tasks."
     },
     "REGISTER": {
         "PAGE_TITLE": "등록 - 타이가",
@@ -360,7 +360,7 @@
         "LINK_CANCEL": "아니요 되돌아갈래요. 기억이 났어요.",
         "SUCCESS_TITLE": "메일함을 확인해보세요!",
         "SUCCESS_TEXT": "<strong>이메일 보관함을 확인하세요!</strong><br />새 비밀번호를 설정할 수 있는 방법을 이메일로 알려드렸습니다.",
-        "ERROR": "According to the Taiga, you are not registered yet."
+        "ERROR": "According to Nookipedia Tasks, you are not registered yet."
     },
     "CHANGE_PASSWORD": {
         "PAGE_TITLE": "비밀번호 변경하기 - 타이가",
@@ -379,15 +379,15 @@
         "PLACEHOLDER_NEW_PASSWORD": "새 비밀번호",
         "PLACEHOLDER_RE_TYPE_NEW_PASSWORD": "새 비밀번호를 한 번 더 입력하세요",
         "ACTION_RESET_PASSWORD": "비밀번호 재설정하기",
-        "ERROR": "The Taiga can't find your request to recover your password. Try to ask for it again.",
-        "SUCCESS": "The Taiga saved your new password.<br /> Try to <strong>sign in</strong> with it."
+        "ERROR": "Nookipedia Tasks can't find your request to recover your password. Try to ask for it again.",
+        "SUCCESS": "Nookipedia Tasks saved your new password.<br /> Try to <strong>sign in</strong> with it."
     },
     "INVITATION": {
         "PAGE_TITLE": "초대 수락 - 타이가",
         "PAGE_DESCRIPTION": "타이가에서 온 프로젝트 초대를 수락하세요. 타이가는 스타트업과 애자일 개발자/디자이너들을 위한 간명하고 아름다운 프로젝트 관리 플랫폼입니다. 정말 즐거울 거예요"
     },
     "INVITATION_LOGIN_FORM": {
-        "NOT_FOUND": "The Taiga can't find your invitation.",
+        "NOT_FOUND": "Nookipedia Tasks can't find your invitation.",
         "SUCCESS": "{{project_name}} 프로젝트에 오신 것을 환영합니다."
     },
     "HOME": {
@@ -466,7 +466,7 @@
         "TITLE_LIGHTBOX_DELETE_ATTACHMENT": "첨부파일 삭제하기",
         "MSG_LIGHTBOX_DELETE_ATTACHMENT": "첨부 파일 '{{fileName}}'",
         "ERROR_DELETE_ATTACHMENT": "삭제할 수 없었습니다: {{errorMessage}}",
-        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Taiga, try it with a file smaller than ({{maxFileSize}})"
+        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for Nookipedia Tasks, try it with a file smaller than ({{maxFileSize}})"
     },
     "PAGINATION": {
         "PREVIOUS": "이전",
@@ -502,8 +502,8 @@
             "LOADING_MESSAGE": "이 페이지를 닫지 마세요.",
             "ASYNC_MESSAGE": "작업이 끝나면 이메일로 알려드릴게요.",
             "SYNC_MESSAGE": "자동으로 다운로드가 시작되지 않는다면 <a href='{{url}}' download title='Download the dump file'>여기</a>를 클릭하세요.",
-            "ERROR": "The Taiga has some problems generating your dump. Please try it again.",
-            "ERROR_BUSY": "Sorry, the Taiga is experiencing heavy load right now. Please try again in a few minutes."
+            "ERROR": "Nookipedia Tasks has some problems generating your dump. Please try it again.",
+            "ERROR_BUSY": "Sorry, Nookipedia Tasks is experiencing heavy load right now. Please try again in a few minutes."
         },
         "MODULES": {
             "TITLE": "모듈",
@@ -676,7 +676,7 @@
             "WARNING_DELETE_ROLE": "조심하세요! 모든 역할 예측이 삭제됩니다.",
             "ERROR_DELETE_ALL": "최소한 한 개의 값은 남겨두어야 합니다.",
             "EXTERNAL_USER": "외부 사용자",
-            "NOTE_EXTERNAL_USERS": "<strong>Note:</strong> by External User we mean any anonymous user not belonging to the Taiga platform, including search engines. Please use this role with care."
+            "NOTE_EXTERNAL_USERS": "<strong>Note:</strong> by External User we mean any anonymous user not belonging to Nookipedia Tasks platform, including search engines. Please use this role with care."
         },
         "THIRD_PARTIES": {
             "SECRET_KEY": "비밀 키",
@@ -970,13 +970,13 @@
         "IMPORT": {
             "TITLE": "프로젝트 가져오기",
             "DESCRIPTION": "여러 플랫폼의 당신의 프로젝트를 타이가로 가져오십시오.",
-            "ASYNC_IN_PROGRESS_TITLE": "The Taiga is importing your project",
+            "ASYNC_IN_PROGRESS_TITLE": "Nookipedia Tasks is importing your project",
             "ASYNC_IN_PROGRESS_MESSAGE": "이 작업은 몇 분 정도 걸립니다.<br/> 작업이 끝나면 이메일로 알려드릴게요.",
             "UPLOAD_IN_PROGRESS_MESSAGE": "{{totalSize}} 중 {{uploadedSize}} 만큼 업로드했습니다",
-            "ERROR": "The Taiga has some problems importing your dump data. Please try again.",
-            "ERROR_TOO_MANY_REQUEST": "Sorry, the Taiga is experiencing heavy load right now. Please try again in a few minutes.",
-            "ERROR_MESSAGE": "The Taiga has some problems importing your dump data: {{error_message}}",
-            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Taiga, try it with a file smaller than ({{maxFileSize}})",
+            "ERROR": "Nookipedia Tasks has some problems importing your dump data. Please try again.",
+            "ERROR_TOO_MANY_REQUEST": "Sorry, Nookipedia Tasks is experiencing heavy load right now. Please try again in a few minutes.",
+            "ERROR_MESSAGE": "Nookipedia Tasks has some problems importing your dump data: {{error_message}}",
+            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for Nookipedia Tasks, try it with a file smaller than ({{maxFileSize}})",
             "SYNC_SUCCESS": "프로젝트를 불러오는 데 성공했습니다.",
             "IMPORT": "가져오기",
             "WHO_IS": "이 태스크들을 할당 ...",
@@ -985,12 +985,12 @@
             "WRITE_EMAIL_LABEL": "Tagia에서 사용자가 사용할 이메일을 작성",
             "ACCEEDE": "Accede",
             "PROJECT_MEMBERS": "프로젝트 회원",
-            "PROCESS_DESCRIPTION": "Tell us to whom from Taiga you want to assign the tasks of {{platform}}",
+            "PROCESS_DESCRIPTION": "Tell us to whom from Nookipedia Tasks you want to assign the tasks of {{platform}}",
             "MATCH": "외부의 <strong>{{user_external}}</strong> 사용자는 내부의 <strong>{{user_internal}}</strong> 사용자와 동일인입니까?",
             "CHOOSE": "사용자 선택",
             "LINKS": "{{platform}}과 연결",
             "LINKS_DESCRIPTION": "{{platform}} 카드와 모든 아이템들의 연결을 유지하시겠습니까?",
-            "WARNING_MAIL_USER": "Note that if the user does not have a Taiga account we will not be able to assign the tasks to them.",
+            "WARNING_MAIL_USER": "Note that if the user does not have a Nookipedia Tasks account we will not be able to assign the tasks to them.",
             "ASSIGN": "할당",
             "PROJECT_SELECTOR": {
                 "NO_RESULTS": "검색 기준에 아무 것도 발견되지 않았습니다.",
@@ -1033,7 +1033,7 @@
                 "DESCRIPTION": "There are still unidentified people. The cards assigned to these people will remain unassigned. Check all the contacts to not lose that information.",
                 "CHECK": "연락처 확인"
             },
-            "TAIGA": {
+            "Nookipedia Tasks": {
                 "SELECTOR": "타이가 프로젝트 가져오기"
             },
             "TRELLO": {
@@ -1059,8 +1059,8 @@
                 "NO_PROJECTS": "Asana에 당신의 프로젝트가 없는 것 같군요.",
                 "KANBAN_PROJECT": "칸반",
                 "SCRUM_PROJECT": "스크럼",
-                "CREATE_AS_SCRUM_DESCRIPTION": "당신의 프로젝트에서 태스크와 하위 태스크는 Taiga 유저 스토리와 태스크로 작성됩니다.",
-                "CREATE_AS_KANBAN_DESCRIPTION": "당신의 프로젝트에서 태스크와 하위 태스크는 Taiga 유저 스토리와 태스크로 작성됩니다."
+                "CREATE_AS_SCRUM_DESCRIPTION": "당신의 프로젝트에서 태스크와 하위 태스크는 Nookipedia Tasks 유저 스토리와 태스크로 작성됩니다.",
+                "CREATE_AS_KANBAN_DESCRIPTION": "당신의 프로젝트에서 태스크와 하위 태스크는 Nookipedia Tasks 유저 스토리와 태스크로 작성됩니다."
             },
             "JIRA": {
                 "SELECTOR": "가져올 Jira 프로젝트와 어떻게 관리할지를 선택하세요",
@@ -1071,9 +1071,9 @@
                 "KANBAN_PROJECT": "칸반",
                 "SCRUM_PROJECT": "스크럼",
                 "ISSUES_PROJECT": "이슈",
-                "CREATE_AS_SCRUM_DESCRIPTION": "The issues and sub-issues of your project will be created as Taiga user stories and tasks.",
-                "CREATE_AS_KANBAN_DESCRIPTION": "The issues and sub-issues of your project will be created as Taiga user stories and tasks.",
-                "CREATE_AS_ISSUES_DESCRIPTION": "What do you want to do with sub-issues from the Jira project? (Taiga doesn't allow sub-issues)",
+                "CREATE_AS_SCRUM_DESCRIPTION": "The issues and sub-issues of your project will be created as Nookipedia Tasks user stories and tasks.",
+                "CREATE_AS_KANBAN_DESCRIPTION": "The issues and sub-issues of your project will be created as Nookipedia Tasks user stories and tasks.",
+                "CREATE_AS_ISSUES_DESCRIPTION": "What do you want to do with sub-issues from the Jira project? (Nookipedia Tasks doesn't allow sub-issues)",
                 "CREATE_NEW_ISSUES": "하위 이슈를 새로운 타이가 이슈로 변경",
                 "NOT_CREATE_NEW_ISSUES": "하위 이슈를 가져오지 마십시오."
             }
@@ -1256,13 +1256,13 @@
         "TRIBE": {
             "PUBLISH": "Tiaga Tribe의 Gig으로 배포하기",
             "PUBLISH_INFO": "더 많은 정보",
-            "PUBLISH_TITLE": "Taiga Tribe로 배포하기에 대한 더 많은 정보",
-            "PUBLISHED_AS_GIG": "스토리가 Taiga Tribe의 Gig으로 배포되었습니다.",
+            "PUBLISH_TITLE": "Nookipedia Tasks Tribe로 배포하기에 대한 더 많은 정보",
+            "PUBLISHED_AS_GIG": "스토리가 Nookipedia Tasks Tribe의 Gig으로 배포되었습니다.",
             "EDIT_LINK": "링크 수정",
             "CLOSE": "닫기",
-            "SYNCHRONIZE_LINK": "Taiga Tribe와 동기화",
+            "SYNCHRONIZE_LINK": "Nookipedia Tasks Tribe와 동기화",
             "PUBLISH_MORE_INFO_TITLE": "이 태스크에 누군가가 필요합니까?",
-            "PUBLISH_MORE_INFO_TEXT": "<p>만약 당신이 어떤 일에 도움이 필요하면 간단하게 <a href='http://taigatribe.com' title='Taiga Tribe'> Taiga Tribe </a>의 Gigs를 만들어 전세계의 도움을 받을 수 있습니다. 우리는 당신이 이 위대한 커뮤니티의 gig을 즐기고 제어하거나 관리하면서 기여 할 수 있기를 열망합니다.</p><p><a href='http://taigatribe.com' title='Taiga Tribe'> Taiga Tribe </a> 는 타이가의 형제로 태어났습니다. 두 플랫폼은 별개로 살아갈 수 있지만, 우리는 이들을 결합 하였을 때 더 큰 힘을 낼 수 있다고 믿습니다. 그리고 멋지게 통합되어 움직이는 것을 확인하였습니다.</p>"
+            "PUBLISH_MORE_INFO_TEXT": "<p>만약 당신이 어떤 일에 도움이 필요하면 간단하게 <a href='http://Nookipedia Taskstribe.com' title='Nookipedia Tasks Tribe'> Nookipedia Tasks Tribe </a>의 Gigs를 만들어 전세계의 도움을 받을 수 있습니다. 우리는 당신이 이 위대한 커뮤니티의 gig을 즐기고 제어하거나 관리하면서 기여 할 수 있기를 열망합니다.</p><p><a href='http://Nookipedia Taskstribe.com' title='Nookipedia Tasks Tribe'> Nookipedia Tasks Tribe </a> 는 타이가의 형제로 태어났습니다. 두 플랫폼은 별개로 살아갈 수 있지만, 우리는 이들을 결합 하였을 때 더 큰 힘을 낼 수 있다고 믿습니다. 그리고 멋지게 통합되어 움직이는 것을 확인하였습니다.</p>"
         }
     },
     "COMMENTS": {
@@ -1399,12 +1399,12 @@
         }
     },
     "ERROR": {
-        "TEXT1": "Something happened and the Taiga has captured the error to be able to work on it.",
+        "TEXT1": "Something happened and Nookipedia Tasks has captured the error to be able to work on it.",
         "NOT_FOUND": "찾지 못함",
         "NOT_FOUND_TEXT": "404 에러: 당신이 접속한 페이지는 더 이상 존재하지 않습니다. 타이가홈페이지로 돌아가서 당신이 찾고 있는 페이지를 찾아보세요.",
         "PERMISSION_DENIED": "권한이 없습니다",
         "PERMISSION_DENIED_TEXT": "이 페이지를 볼 수 있는 권한이 없습니다.",
-        "VERSION_ERROR": "Some other user inside Taiga has changed this before and your changes can't be applied. Save them elsewhere, reload the page and re-apply your changes again or they will be lost."
+        "VERSION_ERROR": "Some other user inside Nookipedia Tasks has changed this before and your changes can't be applied. Save them elsewhere, reload the page and re-apply your changes again or they will be lost."
     },
     "TASKBOARD": {
         "PAGE_TITLE": "{{sprintName}} - 스프린트 태스크보드 - {{projectName}}",
@@ -1470,7 +1470,7 @@
         "OK": "모든게 좋네요",
         "WARNING": "음? 뭔가 문제가 있는데...",
         "WARNING_TEXT": "Your changes were not saved!",
-        "SAVED": "The Taiga saved all your changes!",
+        "SAVED": "Nookipedia Tasks saved all your changes!",
         "CLOSE": "알림 닫기",
         "MAIL": "메일로 알림",
         "DESKTOP": "Desktop notifications using browser alerts",
@@ -1478,24 +1478,24 @@
     },
     "CANCEL_ACCOUNT": {
         "TITLE": "계정 취소 하기",
-        "SUBTITLE": "We're sorry you are leaving the Taiga, we hope you enjoyed your stay :)",
+        "SUBTITLE": "We're sorry you are leaving Nookipedia Tasks, we hope you enjoyed your stay :)",
         "PLACEHOLDER_INPUT_TOKEN": "계정 토큰 삭제",
         "ACTION_LEAVING": "네, 나갈래요!",
-        "SUCCESS": "The Taiga removed your account"
+        "SUCCESS": "Nookipedia Tasks removed your account"
     },
     "CHANGE_EMAIL_FORM": {
         "TITLE": "이메일 변경하기",
         "SUBTITLE": "한번 더 클릭하시면 이메일 정보가 업데이트 됩니다.",
         "PLACEHOLDER_INPUT_TOKEN": "이메일 토큰 변경",
         "ACTION_CHANGE_EMAIL": "이메일 변경하기",
-        "SUCCESS": "The Taiga updated your email"
+        "SUCCESS": "Nookipedia Tasks updated your email"
     },
     "VERIFY_EMAIL_FORM": {
         "TITLE": "Verify your email",
         "SUBTITLE": "One click more and your email will be verified!",
         "PLACEHOLDER_INPUT_TOKEN": "이메일 토큰 변경",
         "ACTION_VERIFY_EMAIL": "Verify email",
-        "SUCCESS": "The Taiga verified your email"
+        "SUCCESS": "Nookipedia Tasks verified your email"
     },
     "ISSUES": {
         "PAGE_TITLE": "이슈 - {{projectName}}",
@@ -1628,7 +1628,7 @@
         },
         "EVENTS": {
             "SECTION_NAME": "이벤트",
-            "SECTION_DESCRIPTION": "Important events in Taiga header",
+            "SECTION_DESCRIPTION": "Important events in Nookipedia Tasks header",
             "SECTION_DESCRIPTION_EXPANDED": "(direct mentions, updates in items that you are watching...)",
             "COLUMN_ENABLED": "Enabled",
             "COLUMN_PROJECT": "프로젝트"
@@ -1637,7 +1637,7 @@
     "USER_PROFILE": {
         "ACTION_USE_GRAVATAR": "기본 이미지 사용",
         "ACTION_DELETE_ACCOUNT": "타이가 계정 삭제하기",
-        "ACTION_DOWNLOAD_PROFILE": "Download Taiga profile",
+        "ACTION_DOWNLOAD_PROFILE": "Download Nookipedia Tasks profile",
         "ACTION_VERIFY_EMAIL": "Verify your email",
         "CHANGE_EMAIL_SUCCESS": "<strong>이메일 보관함을 확인하세요!</strong><br />새 주소를 설정할 수 있는 방법을<br />이메일로 알려드렸습니다.",
         "VERIFY_EMAIL_SUCCESS": "<strong>Check your inbox!</strong><br />We have sent you an email<br />with instructions on how to verify your address",

@@ -10,6 +10,7 @@
     .title {
         @include font-type(light);
         @include font-size(xxlarge);
+        display: inline;
         line-height: 3rem;
         margin-bottom: 0;
     }

@@ -31,7 +31,7 @@ class SectionsService extends taiga.Service
         1: {id: 1, title: 'TIMELINE', path:'timeline', enabled: ''}
         2: {id: 2, title: 'EPICS', path:'epics', enabled: 'is_epics_activated'}
         3: {id: 3, title: 'BACKLOG', path:'backlog', enabled: 'is_backlog_activated'}
-        4: {id: 4, title: 'KANBAN', path:'kanban', enabled: 'is_kanban_activated'}
+        4: {id: 4, title: 'TASKS', path:'kanban', enabled: 'is_kanban_activated'}
         5: {id: 5, title: 'ISSUES', path:'issues', enabled: 'is_issues_activated'}
         6: {id: 6, title: 'WIKI', path:'wiki', enabled: 'is_wiki_activated'}
     }

@@ -39,7 +39,7 @@
         "NEXT": "Weiter",
         "LOGOUT": "Ausloggen",
         "EXTERNAL_USER": "ein externer Benutzer",
-        "GENERIC_ERROR": "The Taiga says {{error}}.",
+        "GENERIC_ERROR": "Nookipedia Tasks says {{error}}.",
         "IOCAINE_TEXT": "This member is feeling a bit overwhelmed by this task. They will become immune to the iocaine poison over time with your help. For now, they may need a hug.",
         "CLIENT_REQUIREMENT": "A client requirement is a new requirement that was not previously expected and is required to be part of the project",
         "TEAM_REQUIREMENT": "A team requirement is a requirement that must exist in the project but should have no cost for the client",
@@ -311,8 +311,8 @@
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "Login - Taiga",
-        "PAGE_DESCRIPTION": "Melden Sie sich bei Taiga an, einer Projekt-Management Plattform für Neugründer und agile Entwickler und Designer, die ein unkompliziertes und ansprechendes Tool möchten, das die Arbeit wirklich angenehm macht."
+        "PAGE_TITLE": "Login - Nookipedia Tasks",
+        "PAGE_DESCRIPTION": "Melden Sie sich bei Nookipedia Tasks an, einer Projekt-Management Plattform für Neugründer und agile Entwickler und Designer, die ein unkompliziertes und ansprechendes Tool möchten, das die Arbeit wirklich angenehm macht."
     },
     "AUTH": {
         "INVITED_YOU": "hat Sie zum Projekt eingeladen",
@@ -321,7 +321,7 @@
         "CREATE_ACCOUNT": "Ein kostenloses Benutzerkonto anlegen"
     },
     "LOGIN_COMMON": {
-        "HEADER": "Ich bin bereits bei Taiga registriert",
+        "HEADER": "Ich bin bereits bei Nookipedia Tasks registriert",
         "PLACEHOLDER_AUTH_NAME": "Benutzername oder E-Mail-Adresse",
         "LINK_FORGOT_PASSWORD": "Haben Sie es vergessen?",
         "TITLE_LINK_FORGOT_PASSWORD": "Haben Sie Ihr Passwort vergessen?",
@@ -331,15 +331,15 @@
         "ALT_LOGIN": "Oder einloggen mit"
     },
     "LOGIN_FORM": {
-        "ERROR_AUTH_INCORRECT": "Laut Taiga sind Benutzername/E-Mail oder Passwort nicht korrekt.",
-        "SUCCESS": "Willkommen bei Taiga."
+        "ERROR_AUTH_INCORRECT": "Laut Nookipedia Tasks sind Benutzername/E-Mail oder Passwort nicht korrekt.",
+        "SUCCESS": "Willkommen bei Nookipedia Tasks."
     },
     "REGISTER": {
-        "PAGE_TITLE": "Registrieren - Taiga",
-        "PAGE_DESCRIPTION": "Erstellen Sie ihr Benutzerkonto in Taiga, einer Projekt-Management Plattform für Neugründer und agile Entwickler und Designer, die ein unkompliziertes und ansprechendes Tool möchten, das die Arbeit wirklich angenehm macht."
+        "PAGE_TITLE": "Registrieren - Nookipedia Tasks",
+        "PAGE_DESCRIPTION": "Erstellen Sie ihr Benutzerkonto in Nookipedia Tasks, einer Projekt-Management Plattform für Neugründer und agile Entwickler und Designer, die ein unkompliziertes und ansprechendes Tool möchten, das die Arbeit wirklich angenehm macht."
     },
     "REGISTER_FORM": {
-        "TITLE": "Ein neues Taiga Benutzerkonto registrieren (kostenlos)",
+        "TITLE": "Ein neues Nookipedia Tasks Benutzerkonto registrieren (kostenlos)",
         "PLACEHOLDER_NAME": "Wählen Sie einen Benutzernamen (Groß- und Kleinschreibung beachten)",
         "PLACEHOLDER_FULL_NAME": "Wählen Sie Ihren Anzeigenamen",
         "PLACEHOLDER_EMAIL": "Ihre E-Mail",
@@ -349,7 +349,7 @@
         "LINK_LOGIN": "Sind Sie bereits registriert? Loggen Sie sich ein"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "Passwort vergessen - Taiga",
+        "PAGE_TITLE": "Passwort vergessen - Nookipedia Tasks",
         "PAGE_DESCRIPTION": "Geben Sie Ihren Benutzernamen oder Ihre E-Mail Adresse ein, um ein neues Passwort zu erhalten."
     },
     "FORGOT_PASSWORD_FORM": {
@@ -360,10 +360,10 @@
         "LINK_CANCEL": "Nein, bring mich zurück. Ich denke, ich erinnere mich daran.",
         "SUCCESS_TITLE": "Prüfen Sie bitte Ihre Emails!",
         "SUCCESS_TEXT": "Wir haben Ihnen eine Email mit den Anweisungen zum ändern Ihres Passworts geschickt",
-        "ERROR": "Laut Taiga sind Sie noch nicht registriert."
+        "ERROR": "Laut Nookipedia Tasks sind Sie noch nicht registriert."
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "Änderen Sie Ihr Passwort - Taiga",
+        "PAGE_TITLE": "Änderen Sie Ihr Passwort - Nookipedia Tasks",
         "SECTION_NAME": "Passwort ändern",
         "FIELD_CURRENT_PASSWORD": "Aktuelles Passwort",
         "PLACEHOLDER_CURRENT_PASSWORD": "Ihr aktuelles Passwort (oder leer, wenn Sie noch kein Passwort haben)",
@@ -379,21 +379,21 @@
         "PLACEHOLDER_NEW_PASSWORD": "Neues Passwort",
         "PLACEHOLDER_RE_TYPE_NEW_PASSWORD": "Wiederholen Sie die Eingabe des neuen Passworts",
         "ACTION_RESET_PASSWORD": "Passwort zurücksetzen",
-        "ERROR": "Taiga konnte Ihre Anfrage zum Zurücksetzen Ihres Passworts nicht finden. Bitte fordern Sie es erneut an.",
-        "SUCCESS": "Taiga hat Ihr neues Passwort gespeichert. Testen Sie Ihr Login."
+        "ERROR": "Nookipedia Tasks konnte Ihre Anfrage zum Zurücksetzen Ihres Passworts nicht finden. Bitte fordern Sie es erneut an.",
+        "SUCCESS": "Nookipedia Tasks hat Ihr neues Passwort gespeichert. Testen Sie Ihr Login."
     },
     "INVITATION": {
-        "PAGE_TITLE": "Annahme der Einladung - Taiga",
-        "PAGE_DESCRIPTION": "Nehmen Sie die Einladung an und treten Sie einem Projekt in Taiga bei, einer Projekt-Management Plattform für Neugründer und agile Entwickler und Designer, die ein unkompliziertes und ansprechendes Tool möchten, das die Arbeit wirklich angenehm macht."
+        "PAGE_TITLE": "Annahme der Einladung - Nookipedia Tasks",
+        "PAGE_DESCRIPTION": "Nehmen Sie die Einladung an und treten Sie einem Projekt in Nookipedia Tasks bei, einer Projekt-Management Plattform für Neugründer und agile Entwickler und Designer, die ein unkompliziertes und ansprechendes Tool möchten, das die Arbeit wirklich angenehm macht."
     },
     "INVITATION_LOGIN_FORM": {
-        "NOT_FOUND": "Taiga kann Ihre Einladung nicht finden.",
+        "NOT_FOUND": "Nookipedia Tasks kann Ihre Einladung nicht finden.",
         "SUCCESS": "Sie sind diesem Projekt erfolgreich beigetreten. Herzlich willkommen bei {{project_name}}"
     },
     "HOME": {
-        "PAGE_TITLE": "Home - Taiga",
-        "PAGE_DESCRIPTION": "Die Taiga Homepage mit Ihren wichtigsten Projekten und all Ihren zugeordneten und beobachteten User-Stories, Aufgaben und Tickets.",
-        "EMPTY_WORKING_ON": "<strong>Es sieht hier noch leer aus!</strong> Beginnen Sie mit Taiga zu arbeiten und hier werden die User-Storys, Aufgaben und Tickets angezeigt, an denen Sie arbeiten.",
+        "PAGE_TITLE": "Home - Nookipedia Tasks",
+        "PAGE_DESCRIPTION": "Die Nookipedia Tasks Homepage mit Ihren wichtigsten Projekten und all Ihren zugeordneten und beobachteten User-Stories, Aufgaben und Tickets.",
+        "EMPTY_WORKING_ON": "<strong>Es sieht hier noch leer aus!</strong> Beginnen Sie mit Nookipedia Tasks zu arbeiten und hier werden die User-Storys, Aufgaben und Tickets angezeigt, an denen Sie arbeiten.",
         "EMPTY_WATCHING": "<strong>Follow</strong> user stories, tasks, issues in your projects and be notified about their changes :)",
         "EMPTY_PROJECT_LIST": "Sie haben noch kein Projekt",
         "WORKING_ON_SECTION": "In Arbeit",
@@ -443,7 +443,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "Meine Projekte - Taiga",
+        "PAGE_TITLE": "Meine Projekte - Nookipedia Tasks",
         "PAGE_DESCRIPTION": "Eine Liste mit all Ihren Projekten. Sie können sie ordnen oder ein Neues anlegen.",
         "MY_PROJECTS": "Meine Projekte"
     },
@@ -466,7 +466,7 @@
         "TITLE_LIGHTBOX_DELETE_ATTACHMENT": "Anhang löschen...",
         "MSG_LIGHTBOX_DELETE_ATTACHMENT": "der Anhang '{{fileName}}'",
         "ERROR_DELETE_ATTACHMENT": "Es war uns nicht möglich, zu löschen: {{errorMessage}}",
-        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Taiga, try it with a file smaller than ({{maxFileSize}})"
+        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for Nookipedia Tasks, try it with a file smaller than ({{maxFileSize}})"
     },
     "PAGINATION": {
         "PREVIOUS": "Zurück",
@@ -502,8 +502,8 @@
             "LOADING_MESSAGE": "Bitte lassen Sie diese Seite geöffnet!",
             "ASYNC_MESSAGE": "Wir werden nach Fertigstellung eine E-Mail senden.",
             "SYNC_MESSAGE": "Wenn der Download nicht automatisch startet, klicken Sie <a href='{{url}}' download title='Download the dump file'>hier</a>.",
-            "ERROR": "The Taiga has some problems generating your dump. Please try it again.",
-            "ERROR_BUSY": "Sorry, the Taiga is experiencing heavy load right now. Please try again in a few minutes."
+            "ERROR": "Nookipedia Tasks has some problems generating your dump. Please try it again.",
+            "ERROR_BUSY": "Sorry, Nookipedia Tasks is experiencing heavy load right now. Please try again in a few minutes."
         },
         "MODULES": {
             "TITLE": "Module",
@@ -515,7 +515,7 @@
             "NUMBER_SPRINTS_HELP": "0 für eine unbestimmte Anzahl",
             "NUMBER_US_POINTS": "Erwartete Gesamt-Story-Punkte",
             "NUMBER_US_POINTS_HELP": "0 für eine unbestimmte Anzahl",
-            "KANBAN": "Kanban",
+            "KANBAN": "Tasks",
             "KANBAN_DESCRIPTION": "Organisieren Sie Ihr Projekt auf übersichtliche Art.",
             "ISSUES": "Tickets",
             "ISSUES_DESCRIPTION": "Verfolgen Sie Fehler, Fragen und Verbesserungen, die mit Ihrem Projekt verbunden sind. Verpassen Sie nichts!",
@@ -540,7 +540,7 @@
             "RECRUITING": "Auf der Suche nach Mitgliedern?",
             "RECRUITING_MESSAGE": "Wen suchen Sie denn?",
             "RECRUITING_PLACEHOLDER": "Define the profiles you are looking for",
-            "FEEDBACK": "Feedback von Taiga-Nutzern erhalten?",
+            "FEEDBACK": "Feedback von Nookipedia Tasks-Nutzern erhalten?",
             "PUBLIC_PROJECT": "Öffentliches Projekt",
             "PRIVATE_PROJECT": "Privates Projekt",
             "PRIVATE_OR_PUBLIC": "Was ist der Unterschied zwischen öffentlichen und privaten Projekten?",
@@ -676,7 +676,7 @@
             "WARNING_DELETE_ROLE": "Achtung! Alle Rollenverteilungen werden entfernt.",
             "ERROR_DELETE_ALL": "Sie können nicht alle Werte löschen",
             "EXTERNAL_USER": "Externer Benutzer",
-            "NOTE_EXTERNAL_USERS": "<strong>Beachte:</strong>Mit Externen Benutzern meinen wir anonyme Benutzer, die nicht zur Taiga Plattform gehören, einschließlich Suchmaschinen. Bitte benutzen Sie diese Rolle mit Vorsicht."
+            "NOTE_EXTERNAL_USERS": "<strong>Beachte:</strong>Mit Externen Benutzern meinen wir anonyme Benutzer, die nicht zur Nookipedia Tasks Plattform gehören, einschließlich Suchmaschinen. Bitte benutzen Sie diese Rolle mit Vorsicht."
         },
         "THIRD_PARTIES": {
             "SECRET_KEY": "Geheimschlüssel",
@@ -826,7 +826,7 @@
             "CONTACTS": "Kontakte",
             "CONTACTS_EMPTY": "{{username}} hat noch keine Kontakte",
             "CURRENT_USER_CONTACTS_EMPTY": "Sie haben noch keine Kontakte",
-            "CURRENT_USER_CONTACTS_EMPTY_EXPLAIN": "Die Leute, mit denen Sie auf Taiga zusammenarbeiten, werden automatisch zu Ihren Kontakten",
+            "CURRENT_USER_CONTACTS_EMPTY_EXPLAIN": "Die Leute, mit denen Sie auf Nookipedia Tasks zusammenarbeiten, werden automatisch zu Ihren Kontakten",
             "TABS": {
                 "ACTIVITY_TAB": "Aktivität",
                 "ACTIVITY_TAB_TITLE": "Alle Aktivitäten dieses Benutzers anzeigen",
@@ -882,7 +882,7 @@
             "TIMELINE": "Aktivität",
             "EPICS": "Epics",
             "BACKLOG": "Backlog",
-            "KANBAN": "Kanban",
+            "KANBAN": "Tasks",
             "ISSUES": "Tickets",
             "WIKI": "Wiki",
             "TEAM": "Team",
@@ -893,7 +893,7 @@
             "ACTION_CREATE_PROJECT": "Projekt anlegen",
             "MANAGE_PROJECTS": "Projekte verwalten",
             "TITLE_CREATE_PROJECT": "Projekt anlegen",
-            "HELP_TITLE": "Taiga Support Seite",
+            "HELP_TITLE": "Nookipedia Tasks Support Seite",
             "HELP": "Hilfe",
             "HOMEPAGE": "Homepage",
             "FEEDBACK_TITLE": "Feedback senden",
@@ -941,13 +941,13 @@
             "TEMPLATE_SCRUM": "Scrum",
             "TEMPLATE_SCRUM_DESC": "Priorisieren und lösen Sie Ihre Aufgaben in kurzen Zeitintervallen",
             "TEMPLATE_SCRUM_LONGDESC": "Scrum is an iterative and incremental agile software development methodology for managing product development.\nThe product backlog is what will ultimately be delivered, ordered into the sequence in which it should be delivered. Product Backlogs are broken into manageable, executable chunks named sprints. Every certain amount of time the team initiates a new sprint and commits to deliver a certain number of user stories from the backlog, in accordance with their skills, abilities and resources. The project advances as the backlog becomes depleted.",
-            "TEMPLATE_KANBAN": "Kanban",
+            "TEMPLATE_KANBAN": "Tasks",
             "TEMPLATE_KANBAN_DESC": "Halte einen konstanten Workflow bei unabhängigen Aufgaben",
             "TEMPLATE_KANBAN_LONGDESC": "The Kanban methodology is used to divide project development (any sort of project) into stages.\nA kanban card is like an index card or post-it note that details every task (or user story) in a project that needs to be completed. The Kanban board is used to move each card from one state of completion to the next and in so doing, helps track progress.",
             "DUPLICATE": "Projekt duplizieren",
             "DUPLICATE_DESC": "Starten Sie neu und behalten Sie Ihre Konfiguration",
             "IMPORT": "Projekt importieren",
-            "IMPORT_DESC": "Importieren Sie Ihr Projekt von verschiedenen Plattformen zu Taiga",
+            "IMPORT_DESC": "Importieren Sie Ihr Projekt von verschiedenen Plattformen zu Nookipedia Tasks",
             "INVITE": "Lade jemanden in dieses Projekt ein",
             "SOLO_PROJECT": "Sie sind alleine in diesem Projekt",
             "INVITE_LATER": "(Später können Sie weitere Mitglieder einladen)",
@@ -969,28 +969,28 @@
         },
         "IMPORT": {
             "TITLE": "Projekt importieren",
-            "DESCRIPTION": "Importieren Sie Ihr Projekt von verschiedenen Plattformen zu Taiga",
-            "ASYNC_IN_PROGRESS_TITLE": "The Taiga is importing your project",
+            "DESCRIPTION": "Importieren Sie Ihr Projekt von verschiedenen Plattformen zu Nookipedia Tasks",
+            "ASYNC_IN_PROGRESS_TITLE": "Nookipedia Tasks is importing your project",
             "ASYNC_IN_PROGRESS_MESSAGE": "Dieser Vorgang könnte ein paar Minuten benötigen <br/> Nach Fertigstellung benachrichtigen wir Sie per E-Mail.",
             "UPLOAD_IN_PROGRESS_MESSAGE": "Hochgeladen {{uploadedSize}} von {{totalSize}}",
-            "ERROR": "The Taiga has some problems importing your dump data. Please try again.",
-            "ERROR_TOO_MANY_REQUEST": "Sorry, the Taiga is experiencing heavy load right now. Please try again in a few minutes.",
-            "ERROR_MESSAGE": "The Taiga has some problems importing your dump data: {{error_message}}",
-            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Taiga, try it with a file smaller than ({{maxFileSize}})",
+            "ERROR": "Nookipedia Tasks has some problems importing your dump data. Please try again.",
+            "ERROR_TOO_MANY_REQUEST": "Sorry, Nookipedia Tasks is experiencing heavy load right now. Please try again in a few minutes.",
+            "ERROR_MESSAGE": "Nookipedia Tasks has some problems importing your dump data: {{error_message}}",
+            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for Nookipedia Tasks, try it with a file smaller than ({{maxFileSize}})",
             "SYNC_SUCCESS": "Ihr Projekt wurde erfolgreich importiert",
             "IMPORT": "Importieren",
             "WHO_IS": "Ihre Aufgaben werden zugewiesen an ...",
             "WRITE_EMAIL": "Oder geben Sie die E-Mail Adresse eines Benutzers an",
             "SEARCH_CONTACT": "Oder suchen Sie in Ihren Kontakten",
-            "WRITE_EMAIL_LABEL": "Schreibe eine Email, das dieser User Taiga benützt",
+            "WRITE_EMAIL_LABEL": "Schreibe eine Email, das dieser User Nookipedia Tasks benützt",
             "ACCEEDE": "Accede",
             "PROJECT_MEMBERS": "Projektmitglieder",
-            "PROCESS_DESCRIPTION": "Tell us to whom from Taiga you want to assign the tasks of {{platform}}",
+            "PROCESS_DESCRIPTION": "Tell us to whom from Nookipedia Tasks you want to assign the tasks of {{platform}}",
             "MATCH": "Ist <strong>{{user_external}}</strong> die selbe Person als <strong>{{user_internal}}</strong>?",
             "CHOOSE": "Wähle User",
             "LINKS": "Links mit {{platform}}",
             "LINKS_DESCRIPTION": "Möchten Sie den Link von jedem Eintrag mit der originalen {{platform}} Informationen behalten?",
-            "WARNING_MAIL_USER": "Note that if the user does not have a Taiga account we will not be able to assign the tasks to them.",
+            "WARNING_MAIL_USER": "Note that if the user does not have a Nookipedia Tasks account we will not be able to assign the tasks to them.",
             "ASSIGN": "Zuweisen",
             "PROJECT_SELECTOR": {
                 "NO_RESULTS": "Es sieht so aus, als konnte zu Ihren Suchkriterien nichts passendes gefunden werden.",
@@ -1030,14 +1030,14 @@
             },
             "WARNING": {
                 "TITLE": "Einige Tasks werden noch nicht zugewiesen",
-                "DESCRIPTION": "Es gibt immer noch nicht identifizierte Personen. Die Objekte, die diesen Personen zugewiesen sind, werden in Taiga nicht ohne Zuweisung erstellt. Überprüfe alle Kontakte, um Informationsverlust zu vermeiden",
+                "DESCRIPTION": "Es gibt immer noch nicht identifizierte Personen. Die Objekte, die diesen Personen zugewiesen sind, werden in Nookipedia Tasks nicht ohne Zuweisung erstellt. Überprüfe alle Kontakte, um Informationsverlust zu vermeiden",
                 "CHECK": "Überprüfe Kontakte"
             },
-            "TAIGA": {
-                "SELECTOR": "Importieren Sie Ihr Taiga Projekt"
+            "Nookipedia Tasks": {
+                "SELECTOR": "Importieren Sie Ihr Nookipedia Tasks Projekt"
             },
             "TRELLO": {
-                "SELECTOR": "Importiere Trello Projekt in Taiga",
+                "SELECTOR": "Importiere Trello Projekt in Nookipedia Tasks",
                 "CHOOSE_PROJECT": "Wähle Board welches importiert werden soll",
                 "NO_PROJECTS": "Es scheint, als hätten Sie keine Boards in Trello"
             },
@@ -1045,7 +1045,7 @@
                 "SELECTOR": "Importiere Github Projekt Issues",
                 "CHOOSE_PROJECT": "Finde das Projekt, welches Sie importieren möchten",
                 "NO_PROJECTS": "Es scheint, als hätten Sie keinen Projekte in Github",
-                "HOW_DO_YOU_WANT_TO_IMPORT": "Wie wollen Sie Ihre Tickets in Taiga importieren?",
+                "HOW_DO_YOU_WANT_TO_IMPORT": "Wie wollen Sie Ihre Tickets in Nookipedia Tasks importieren?",
                 "KANBAN_PROJECT": "Als Userstories in einem Kanban Projekt",
                 "KANBAN_PROJECT_DESCRIPTION": "Danach können Sie Scrum mit Backlog aktivieren.",
                 "SCRUM_PROJECT": "Als Userstory in einem Scrum Projekt",
@@ -1057,10 +1057,10 @@
                 "SELECTOR": "Importieren Sie Ihr Asana Projekt und entscheiden Sie, wie es verwalten werden soll",
                 "CHOOSE_PROJECT": "Wähle das Projekt, welches importiert werden soll",
                 "NO_PROJECTS": "Es scheint, als hätten Sie keine Projekte in Asana",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Scrum",
-                "CREATE_AS_SCRUM_DESCRIPTION": "Die Aufgaben und Teilaufgaben Ihres Projekts werden als Taiga User Stories und Aufgaben erzeugt",
-                "CREATE_AS_KANBAN_DESCRIPTION": "Die Aufgaben und Teilaufgaben von Ihrem Projekt werden als Taiga User Stories und Aufgaben erzeugt"
+                "CREATE_AS_SCRUM_DESCRIPTION": "Die Aufgaben und Teilaufgaben Ihres Projekts werden als Nookipedia Tasks User Stories und Aufgaben erzeugt",
+                "CREATE_AS_KANBAN_DESCRIPTION": "Die Aufgaben und Teilaufgaben von Ihrem Projekt werden als Nookipedia Tasks User Stories und Aufgaben erzeugt"
             },
             "JIRA": {
                 "SELECTOR": "Importieren Sie Ihr Jira Projekt und entscheiden Sie, wie es verwaltet werden soll",
@@ -1068,20 +1068,20 @@
                 "CHOOSE_PROJECT": "Wähle Projekt oder Board welches importiert werden soll",
                 "NO_PROJECTS": "Es scheint, dass keine Projekte oder Boards in Jira bestehen",
                 "URL": "Ihre Jira URL",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Scrum",
                 "ISSUES_PROJECT": "Tickets",
-                "CREATE_AS_SCRUM_DESCRIPTION": "Die Tickets und Untertickets Ihres Projekts werden als Taiga User Stories und Aufgaben erstellt",
-                "CREATE_AS_KANBAN_DESCRIPTION": "Die Tickets und Untertickets Ihres Projekts werden als Taiga User Stories und Aufgaben erstellt",
-                "CREATE_AS_ISSUES_DESCRIPTION": "Was möchten Sie mit Untertickets aus dem Jira Projekt tun? (In Taiga gibt es keine Untertickets) ",
-                "CREATE_NEW_ISSUES": " Konvertiere Sub-Tickets zu neuen Taiga Tickets",
+                "CREATE_AS_SCRUM_DESCRIPTION": "Die Tickets und Untertickets Ihres Projekts werden als Nookipedia Tasks User Stories und Aufgaben erstellt",
+                "CREATE_AS_KANBAN_DESCRIPTION": "Die Tickets und Untertickets Ihres Projekts werden als Nookipedia Tasks User Stories und Aufgaben erstellt",
+                "CREATE_AS_ISSUES_DESCRIPTION": "Was möchten Sie mit Untertickets aus dem Jira Projekt tun? (In Nookipedia Tasks gibt es keine Untertickets) ",
+                "CREATE_NEW_ISSUES": " Konvertiere Sub-Tickets zu neuen Nookipedia Tasks Tickets",
                 "NOT_CREATE_NEW_ISSUES": "Importiere keine Sub-Tickets"
             }
         }
     },
     "LIGHTBOX": {
         "DELETE_ACCOUNT": {
-            "CONFIRM": "Sind Sie sicher, dass Sie Ihr Taiga Benutzerkonto löschen wollen?",
+            "CONFIRM": "Sind Sie sicher, dass Sie Ihr Nookipedia Tasks Benutzerkonto löschen wollen?",
             "CANCEL": "Zurück zu den Einstellungen",
             "ACCEPT": "Benutzerkonto löschen",
             "BLOCK_PROJECT": "Beachten Sie, dass alle Projekte die Sie besitzen, <strong>gesperrt</strong> werden, nachdem Sie Ihr Konto gelöscht haben. Wenn Sie möchten, dass Ihre Projekte nicht gesperrt werden, ernennen Sie ein anderes Mitglied zum Projektleiter für jedes Projekt, bevor Sie Ihr Konto löschen."
@@ -1109,11 +1109,11 @@
             "INVITE": "Einladen",
             "CHOOSE_ROLE": "Rolle auswählen",
             "PLACEHOLDER_INVITATION_TEXT": "(Optional) Fügen Sie einen persönlichen Text zur Einladung hinzu. Erzählen Sie Ihren neuen Mitgliedern etwas Schönes. ;-)",
-            "HELP_TEXT": "Wenn Benutzer schon bei Taiga registriert sind, werden diese automatisch hinzugefügt. Ansonsten erhalten sie eine Einladung."
+            "HELP_TEXT": "Wenn Benutzer schon bei Nookipedia Tasks registriert sind, werden diese automatisch hinzugefügt. Ansonsten erhalten sie eine Einladung."
         },
         "FEEDBACK": {
             "TITLE": "Erzählen Sie uns etwas...",
-            "COMMENT": "...einen Fehler, Anregungen, etwas Tolles... oder Ihren schlimmsten Alptraum mit Taiga.",
+            "COMMENT": "...einen Fehler, Anregungen, etwas Tolles... oder Ihren schlimmsten Alptraum mit Nookipedia Tasks.",
             "ACTION_SEND": "Feedback senden"
         },
         "SEARCH": {
@@ -1254,15 +1254,15 @@
         "RELATE_TO_EPIC": "Link to epic",
         "REMOVE_RELATIONSHIP_WITH_EPIC": "Remove epic relationship",
         "TRIBE": {
-            "PUBLISH": "Als Gig in Taiga Tribe veröffentlichen",
+            "PUBLISH": "Als Gig in Nookipedia Tasks Tribe veröffentlichen",
             "PUBLISH_INFO": "Weitere Infos",
-            "PUBLISH_TITLE": "Mehr Infos zum Veröffentlichen in Taiga Tribe",
-            "PUBLISHED_AS_GIG": "Story veröffentlicht als Gig in Taiga Tribe",
+            "PUBLISH_TITLE": "Mehr Infos zum Veröffentlichen in Nookipedia Tasks Tribe",
+            "PUBLISHED_AS_GIG": "Story veröffentlicht als Gig in Nookipedia Tasks Tribe",
             "EDIT_LINK": "Link bearbeiten",
             "CLOSE": "Schließen",
-            "SYNCHRONIZE_LINK": "mit Taiga Tribe synchronisieren",
+            "SYNCHRONIZE_LINK": "mit Nookipedia Tasks Tribe synchronisieren",
             "PUBLISH_MORE_INFO_TITLE": "Brauchen Sie jemanden für diese Aufgabe?",
-            "PUBLISH_MORE_INFO_TEXT": "<p>If you need help with a particular piece of work you can easily create gigs on<a href='http://taigatribe.com' title='Taiga Tribe'> Taiga Tribe </a> and receive help from all over the world. You will be able to control and manage the gig enjoying a great community eager to contribute.</p><p><a href='http://taigatribe.com' title='Taiga Tribe'> TaigaTribe </a>  was born as a Taiga sibling. Both platforms can live separately but we believe that there is much power in using them combined so we are making sure the integration works like a charm.</p>"
+            "PUBLISH_MORE_INFO_TEXT": "<p>If you need help with a particular piece of work you can easily create gigs on<a href='http://Nookipedia Taskstribe.com' title='Nookipedia Tasks Tribe'> Nookipedia Tasks Tribe </a> and receive help from all over the world. You will be able to control and manage the gig enjoying a great community eager to contribute.</p><p><a href='http://Nookipedia Taskstribe.com' title='Nookipedia Tasks Tribe'> Nookipedia TasksTribe </a>  was born as a Nookipedia Tasks sibling. Both platforms can live separately but we believe that there is much power in using them combined so we are making sure the integration works like a charm.</p>"
         }
     },
     "COMMENTS": {
@@ -1399,12 +1399,12 @@
         }
     },
     "ERROR": {
-        "TEXT1": "Something happened and the Taiga has captured the error to be able to work on it.",
+        "TEXT1": "Something happened and Nookipedia Tasks has captured the error to be able to work on it.",
         "NOT_FOUND": "Nicht gefunden",
-        "NOT_FOUND_TEXT": "Fehler 404. Die angeforderte Seite existiert nicht mehr. Möglicherweise finden Sie das Gesuchte, wenn Sie zur TAIGA Homepage zurückkehren.",
+        "NOT_FOUND_TEXT": "Fehler 404. Die angeforderte Seite existiert nicht mehr. Möglicherweise finden Sie das Gesuchte, wenn Sie zur Nookipedia Tasks Homepage zurückkehren.",
         "PERMISSION_DENIED": "Berechtigung verweigert",
         "PERMISSION_DENIED_TEXT": "Sie haben nicht die Berechtigung um auf diese Seite zuzugreifen",
-        "VERSION_ERROR": "Some other user inside Taiga has changed this before and your changes can't be applied. Save them elsewhere, reload the page and re-apply your changes again or they will be lost."
+        "VERSION_ERROR": "Some other user inside Nookipedia Tasks has changed this before and your changes can't be applied. Save them elsewhere, reload the page and re-apply your changes again or they will be lost."
     },
     "TASKBOARD": {
         "PAGE_TITLE": "{{sprintName}} - Sprint Taskboard - {{projectName}}",
@@ -1470,7 +1470,7 @@
         "OK": "Alles in Ordnung",
         "WARNING": "Huch, es gibt ein Problem...",
         "WARNING_TEXT": "Your changes were not saved!",
-        "SAVED": "The Taiga saved all your changes!",
+        "SAVED": "Nookipedia Tasks saved all your changes!",
         "CLOSE": "Benachrichtigung schließen",
         "MAIL": "Benachrichtigungen per Mail",
         "DESKTOP": "Desktop Benachrichtigungen durch den Webbrowser",
@@ -1478,24 +1478,24 @@
     },
     "CANCEL_ACCOUNT": {
         "TITLE": "Ihr Benutzerkonto löschen",
-        "SUBTITLE": "We're sorry you are leaving the Taiga, we hope you enjoyed your stay :)",
+        "SUBTITLE": "We're sorry you are leaving Nookipedia Tasks, we hope you enjoyed your stay :)",
         "PLACEHOLDER_INPUT_TOKEN": "Benutzerkonto Token ungültig machen",
         "ACTION_LEAVING": "Ja, ich gehe!",
-        "SUCCESS": "The Taiga removed your account"
+        "SUCCESS": "Nookipedia Tasks removed your account"
     },
     "CHANGE_EMAIL_FORM": {
         "TITLE": "Ändern Sie Ihre E-Mail",
         "SUBTITLE": "Noch ein Klick und Ihre E-Mail wird aktualisiert!",
         "PLACEHOLDER_INPUT_TOKEN": "E-Mail-Token ändern",
         "ACTION_CHANGE_EMAIL": "E-Mail ändern",
-        "SUCCESS": "The Taiga updated your email"
+        "SUCCESS": "Nookipedia Tasks updated your email"
     },
     "VERIFY_EMAIL_FORM": {
         "TITLE": "Verify your email",
         "SUBTITLE": "One click more and your email will be verified!",
         "PLACEHOLDER_INPUT_TOKEN": "E-Mail-Token ändern",
         "ACTION_VERIFY_EMAIL": "Verify email",
-        "SUCCESS": "The Taiga verified your email"
+        "SUCCESS": "Nookipedia Tasks verified your email"
     },
     "ISSUES": {
         "PAGE_TITLE": "Tickets - {{projectName}}",
@@ -1551,9 +1551,9 @@
         "PAGE_DESCRIPTION": "Status: {{issueStatus }}. Typ: {{issueType}}, Priorität: {{issuePriority}}. Gewichtung: {{issueSeverity}}. Beschreibung: {{issueDescription}}"
     },
     "KANBAN": {
-        "PAGE_TITLE": "Kanban - {{projectName}}",
+        "PAGE_TITLE": "Tasks - {{projectName}}",
         "PAGE_DESCRIPTION": "Das Kanban Panel, mit User-Stories des Projekts {{projectName}}: {{projectDescription}}",
-        "SECTION_NAME": "Kanban",
+        "SECTION_NAME": "Tasks",
         "TITLE_ACTION_FOLD": "Seite einklappen",
         "TITLE_ACTION_UNFOLD": "Spalte aufklappen",
         "TITLE_ACTION_ADD_US": "Add new user story",
@@ -1628,7 +1628,7 @@
         },
         "EVENTS": {
             "SECTION_NAME": "Events",
-            "SECTION_DESCRIPTION": "Important events in Taiga header",
+            "SECTION_DESCRIPTION": "Important events in Nookipedia Tasks header",
             "SECTION_DESCRIPTION_EXPANDED": "(direct mentions, updates in items that you are watching...)",
             "COLUMN_ENABLED": "Enabled",
             "COLUMN_PROJECT": "Projekt"
@@ -1636,8 +1636,8 @@
     },
     "USER_PROFILE": {
         "ACTION_USE_GRAVATAR": "Standardbild verwenden",
-        "ACTION_DELETE_ACCOUNT": "Ihr Taiga Benutzerkonto löschen",
-        "ACTION_DOWNLOAD_PROFILE": "Taiga Profil herunterladen",
+        "ACTION_DELETE_ACCOUNT": "Ihr Nookipedia Tasks Benutzerkonto löschen",
+        "ACTION_DOWNLOAD_PROFILE": "Nookipedia Tasks Profil herunterladen",
         "ACTION_VERIFY_EMAIL": "Verify your email",
         "CHANGE_EMAIL_SUCCESS": "<strong>Sehen Sie in Ihren Posteingang!</strong><br />Wir haben eine E-Mail an Ihr Konto gesendet<br />mit der Anleitung, wie Sie Ihre neue Adresse anlegen",
         "VERIFY_EMAIL_SUCCESS": "<strong>Check your inbox!</strong><br />We have sent you an email<br />with instructions on how to verify your address",
@@ -1688,7 +1688,7 @@
         "LINK": "Mehr dazu auf unserer Support Seite",
         "LINK_TITLE": "Besuchen Sie unsere Support Seite",
         "HINT1_TITLE": "Wussten Sie, dass Sie Projekte importieren und exportieren?",
-        "HINT1_TEXT": "Dies erlaubt Ihnen, alle Ihre Daten zu extrahieren und sie von einer Taiga zur nächsten zu transportieren",
+        "HINT1_TEXT": "Dies erlaubt Ihnen, alle Ihre Daten zu extrahieren und sie von einer Nookipedia Tasks zur nächsten zu transportieren",
         "HINT2_TITLE": "Wussten Sie, dass Sie benutzerdefinierte Felder erstellen können?",
         "HINT2_TEXT": "Teams können nun benutzerdefinierte Felder anlegen, um Werte einzugeben, die für Ihren Workflow wichtig sind.",
         "HINT3_TITLE": "Sortiere Sie Ihre Projekte, um relevante zuerst anzuzeigen.",
@@ -1731,7 +1731,7 @@
         "US_REMOVED_FROM_MILESTONE": "{{username}} has added the user story {{obj_name}} to the backlog",
         "BLOCKED": "{{username}} vermerkte die Blockierung von {{obj_name}}",
         "UNBLOCKED": "{{username}} hob die Blockierung von {{obj_name}} auf",
-        "NEW_USER": "{{username}} ist Taiga beigetreten",
+        "NEW_USER": "{{username}} ist Nookipedia Tasks beigetreten",
         "ITEM_TYPES": {
             "USERSTORY": "User Story",
             "ISSUE": "Ticket",
@@ -1761,7 +1761,7 @@
     "EXTERNAL_APP": {
         "PAGE_TITLE": "Eine externe Anwendung benötigt eine Genehmigung",
         "PAGE_DESCRIPTION": "Eine externe Anwendung benötigt eine Genehmigung",
-        "AUTHORIZATION_REQUEST": "{{application}} erlauben ihren Taiga Account zu benutzen?",
+        "AUTHORIZATION_REQUEST": "{{application}} erlauben ihren Nookipedia Tasks Account zu benutzen?",
         "LOGIN_WITH_ANOTHER_USER": "Mit einem anderen Benutzer einloggen.",
         "AUTHORIZE_APP": "Anwendung autorisieren",
         "CANCEL": "Abbrechen"
@@ -1785,11 +1785,11 @@
             "STEP3": {
                 "TITLE": "Beobachtet",
                 "TEXT1": "And right here you will find the ones in your projects that you want to know about.",
-                "TEXT2": "Sie arbeiten bereits mit Taiga"
+                "TEXT2": "Sie arbeiten bereits mit Nookipedia Tasks"
             },
             "STEP4": {
                 "TITLE": "Los geht’s",
-                "TEXT1": "Sie können anfangen, indem Sie Ihr erstes Taiga-Projekt starten",
+                "TEXT1": "Sie können anfangen, indem Sie Ihr erstes Nookipedia Tasks-Projekt starten",
                 "TEXT2": "Viel Glück!"
             }
         },
@@ -1829,8 +1829,8 @@
         }
     },
     "DISCOVER": {
-        "PAGE_TITLE": "Entdecke Projekte  - Taiga",
-        "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Taiga. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",
+        "PAGE_TITLE": "Entdecke Projekte  - Nookipedia Tasks",
+        "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Nookipedia Tasks. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",
         "DISCOVER_TITLE": "Entdecke Projekte",
         "DISCOVER_SUBTITLE": "{projects, plural, =1{One public project to discover} other{# public projects to discover}}",
         "MOST_ACTIVE": "Most active",
@@ -1842,7 +1842,7 @@
         "EMPTY": "Es existieren keine Projekte mit den angegebenen Kriterien <br> Versuche es nochmal!",
         "FILTERS": {
             "ALL": "Alle",
-            "KANBAN": "Kanban",
+            "KANBAN": "Tasks",
             "SCRUM": "Scrum",
             "PEOPLE": "Auf der Suche nach Mitgliedern?",
             "WEEK": "Letzte Woche",
@@ -1852,8 +1852,8 @@
             "CLEAR": "Filter zurücksetzen"
         },
         "SEARCH": {
-            "PAGE_TITLE": "Suche - Entdecke Projekte - Taiga",
-            "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Taiga. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",
+            "PAGE_TITLE": "Suche - Entdecke Projekte - Nookipedia Tasks",
+            "PAGE_DESCRIPTION": "Searchable directory of Public Projects in Nookipedia Tasks. Explore backlogs, timelines, issues, and teams. Check out the most liked or most active projects. Filter by Kanban or Scrum.",
             "INPUT_PLACEHOLDER": "Geben sie etwas ein...",
             "ACTION_TITLE": "Suche",
             "RESULTS": "Suchergebnisse"

@@ -72,7 +72,7 @@ class AppMetaService
 
     setOpenGraphMetas: (title, description) ->
         @._set("og:type", "object")
-        @._set("og:site_name", "Taiga - Love your projects")
+        @._set("og:site_name", "Taiga - Nookipedia's to-do lists")
         @._set("og:title", title)
         @._set("og:description", truncate(description, 300))
         @._set("og:image", "#{window.location.origin}/#{window._version}/images/logo-color.png")

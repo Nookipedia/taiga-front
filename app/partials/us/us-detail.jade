@@ -141,10 +141,10 @@ div.wrapper(
                 ng-model="us"
             )
 
-        section.ticket-section.ticket-estimation(
-            tg-us-estimation
-            ng-model="us"
-        )
+        //- section.ticket-section.ticket-estimation(
+        //-     tg-us-estimation
+        //-     ng-model="us"
+        //- )
 
         section.ticket-section.ticket-assigned-users(
             tg-assigned-users
@@ -161,12 +161,12 @@ div.wrapper(
             required-perm="modify_us"
         )
 
-        section.ticket-section.upvote-btn(
-            tg-vote-button
-            item="us"
-            on-upvote="ctrl.onUpvote"
-            on-downvote="ctrl.onDownvote"
-        )
+        //- section.ticket-section.upvote-btn(
+        //-     tg-vote-button
+        //-     item="us"
+        //-     on-upvote="ctrl.onUpvote"
+        //-     on-downvote="ctrl.onDownvote"
+        //- )
 
         section.ticket-section.ticket-to-tribe(ng-if="tribeEnabled && !us.tribe_gig")
             tg-tribe-button(
@@ -188,12 +188,12 @@ div.wrapper(
                 obj-type="us"
                 tg-check-permission="modify_us"
             )
-            tg-us-team-requirement-button(ng-model="us")
-            tg-us-client-requirement-button(ng-model="us")
-            tg-block-button(
-                tg-check-permission="modify_us"
-                ng-model="us"
-            )
+            //- tg-us-team-requirement-button(ng-model="us")
+            //- tg-us-client-requirement-button(ng-model="us")
+            //- tg-block-button(
+            //-     tg-check-permission="modify_us"
+            //-     ng-model="us"
+            //- )
             tg-delete-button(
                 tg-check-permission="delete_us"
                 on-delete-title="{{'Delete User Story' | translate}}"

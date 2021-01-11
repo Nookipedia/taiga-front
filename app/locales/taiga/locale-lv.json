@@ -39,7 +39,7 @@
         "NEXT": "Nākamais",
         "LOGOUT": "Izrakstīties/iziet",
         "EXTERNAL_USER": "ārējais lietotājs",
-        "GENERIC_ERROR": "Taiga saka {{error}}.",
+        "GENERIC_ERROR": "Nookipedia Tasks saka {{error}}.",
         "IOCAINE_TEXT": "Biedrs pārslogots ar šo darāmo un jutīsies daudz labāk saņemot atbalstu.",
         "CLIENT_REQUIREMENT": "Šī klienta prasība ir jauna un neparedzēta, taču tai jākļūst par šī projekta neatņemamu sastāvdaļu",
         "TEAM_REQUIREMENT": "Komandas prasība ir projekta obligāta prasība, kura priekš klienta ir bezmaksas",
@@ -311,8 +311,8 @@
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "Ienākt - Taiga",
-        "PAGE_DESCRIPTION": "Notiek ierakstīšanās projektu vadības platformā Taiga - vienkāršā un lieliskā rīkā patiesai darba baudīšanai!"
+        "PAGE_TITLE": "Ienākt - Nookipedia Tasks",
+        "PAGE_DESCRIPTION": "Notiek ierakstīšanās projektu vadības platformā Nookipedia Tasks - vienkāršā un lieliskā rīkā patiesai darba baudīšanai!"
     },
     "AUTH": {
         "INVITED_YOU": "uzaicināja Jūs pievienoties projektam",
@@ -321,7 +321,7 @@
         "CREATE_ACCOUNT": "izveidojiet savu brīvo bezmaksas kontu šeit"
     },
     "LOGIN_COMMON": {
-        "HEADER": "Man jau ir Taigas lietotāja vārds",
+        "HEADER": "Man jau ir Nookipedia Taskss lietotāja vārds",
         "PLACEHOLDER_AUTH_NAME": "lietotāja vārds vai e-pasts (reģistrjūtīgs)",
         "LINK_FORGOT_PASSWORD": "Piemirsāt?",
         "TITLE_LINK_FORGOT_PASSWORD": "Piemirsāt paroli?",
@@ -331,15 +331,15 @@
         "ALT_LOGIN": "vai ieiet ar"
     },
     "LOGIN_FORM": {
-        "ERROR_AUTH_INCORRECT": "Taigai izskatās, ka iesniegtais lietotājvārds vai parole nav derīgi.",
-        "SUCCESS": "Laipni lūdzam Taiga"
+        "ERROR_AUTH_INCORRECT": "Nookipedia Tasksi izskatās, ka iesniegtais lietotājvārds vai parole nav derīgi.",
+        "SUCCESS": "Laipni lūdzam Nookipedia Tasks"
     },
     "REGISTER": {
         "PAGE_TITLE": "Reģistrēties - Taigā",
-        "PAGE_DESCRIPTION": "Izveidojiet savu kontu projektu vadības platformā Taiga. Tas domāts ikvienam, kurš vēlas vienkāršu un lielisku rīku patiesai un efektīvai darba baudīšanai."
+        "PAGE_DESCRIPTION": "Izveidojiet savu kontu projektu vadības platformā Nookipedia Tasks. Tas domāts ikvienam, kurš vēlas vienkāršu un lielisku rīku patiesai un efektīvai darba baudīšanai."
     },
     "REGISTER_FORM": {
-        "TITLE": "Reģistrēt jaunu Taiga kontu (brīvs&bezmaksas)",
+        "TITLE": "Reģistrēt jaunu Nookipedia Tasks kontu (brīvs&bezmaksas)",
         "PLACEHOLDER_NAME": "Izvēlieties lietotāja vārdu (reģistrjūtīgs)",
         "PLACEHOLDER_FULL_NAME": "Norādiet savu pilno vārdu",
         "PLACEHOLDER_EMAIL": "Jūsu e-pasts",
@@ -349,7 +349,7 @@
         "LINK_LOGIN": "Vai esiet jau reģistrējies? Ierakstieties!"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "Aizmirsta parole - Taiga",
+        "PAGE_TITLE": "Aizmirsta parole - Nookipedia Tasks",
         "PAGE_DESCRIPTION": "Lai saņemtu jaunu paroli un atkal varētu iekļūt Taigā, ievadiet savu lietotāja vārdu vai e-pastu."
     },
     "FORGOT_PASSWORD_FORM": {
@@ -363,7 +363,7 @@
         "ERROR": "Šķiet, Jūs vēl neesat reģistrējies."
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "Paroles maiņa - Taiga",
+        "PAGE_TITLE": "Paroles maiņa - Nookipedia Tasks",
         "SECTION_NAME": "Paroles maiņa",
         "FIELD_CURRENT_PASSWORD": "Pašreizējā parole",
         "PLACEHOLDER_CURRENT_PASSWORD": "Jūsu esošā parole (vai atstājiet tukšu, ja Jums vēl nav paroles)",
@@ -383,16 +383,16 @@
         "SUCCESS": "Jaunā parole saglabāta .<br /> Mēģiniet ar to <strong>ierakstīties</strong>."
     },
     "INVITATION": {
-        "PAGE_TITLE": "Uzaicinājuma pieņemšana - Taiga",
+        "PAGE_TITLE": "Uzaicinājuma pieņemšana - Nookipedia Tasks",
         "PAGE_DESCRIPTION": "Apstiprināt uzaicinājumu pievienoties projektam Taigā."
     },
     "INVITATION_LOGIN_FORM": {
-        "NOT_FOUND": "Taiga neatrod jūsu uzaicinājumu.",
+        "NOT_FOUND": "Nookipedia Tasks neatrod jūsu uzaicinājumu.",
         "SUCCESS": "Jūs esat veiksmīgi pievienojies projektam. Esiet sveicināts {{project_name}}"
     },
     "HOME": {
-        "PAGE_TITLE": "Sākums - Taiga",
-        "PAGE_DESCRIPTION": "Taigas sākumlapa ar Jūsu svarīgākajiem projektiem un visām vajadzībām, uzdevumiem un izmaiņu pieprasījumiem, kuri Jums piešķirti vai kurus vērojat.",
+        "PAGE_TITLE": "Sākums - Nookipedia Tasks",
+        "PAGE_DESCRIPTION": "Nookipedia Taskss sākumlapa ar Jūsu svarīgākajiem projektiem un visām vajadzībām, uzdevumiem un izmaiņu pieprasījumiem, kuri Jums piešķirti vai kurus vērojat.",
         "EMPTY_WORKING_ON": "<strong>Patukšs, vai ne?</strong> Sāciet darboties ar Taigu un šeit redzēsiet vajadzības, uzdevumus un izmaiņu pieprasījumus, pie kuriem Jūs strādājat.",
         "EMPTY_WATCHING": "<strong>Sekojiet</strong> vajadzībām, uzdevumiem un izmaiņu pieprasījumiem savos projektos un tieciet informēti par izmaiņām tajos.",
         "EMPTY_PROJECT_LIST": "Jums vēl nav projektu",
@@ -443,7 +443,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "Mani projekti - Taiga",
+        "PAGE_TITLE": "Mani projekti - Nookipedia Tasks",
         "PAGE_DESCRIPTION": "Visu Jūsu projektu saraksts. Varat to pārkārtot vai izveidot jaunu projektu.",
         "MY_PROJECTS": "Mani projekti"
     },
@@ -515,7 +515,7 @@
             "NUMBER_SPRINTS_HELP": "0 - nenoteiktam skaitam",
             "NUMBER_US_POINTS": "Sagaidāmais vajadzību punktu skaits",
             "NUMBER_US_POINTS_HELP": "0 - nenoteiktam skaitam",
-            "KANBAN": "Kanban",
+            "KANBAN": "Tasks",
             "KANBAN_DESCRIPTION": "Organizējiet savu darbu projektā efektīvi, ar šī paneļa palīdzību.",
             "ISSUES": "Izmaiņu pieprasījumi",
             "ISSUES_DESCRIPTION": "Atrast un sakārtot projekta kļūdas, jautājumus un uzlabojumus, Viss kā uz delnas!!",
@@ -540,7 +540,7 @@
             "RECRUITING": "Projekts meklē dalībniekus?",
             "RECRUITING_MESSAGE": "Kas tiek meklēts?",
             "RECRUITING_PLACEHOLDER": "Precizējiet profilus, kurus meklējat",
-            "FEEDBACK": "Vai vēlaties saņemt Taigas lietotāju atsauksmes?",
+            "FEEDBACK": "Vai vēlaties saņemt Nookipedia Taskss lietotāju atsauksmes?",
             "PUBLIC_PROJECT": "Publisks projekts",
             "PRIVATE_PROJECT": "Privāts (neatklāts) projekts",
             "PRIVATE_OR_PUBLIC": "Atšķirības starp publisku (atklātu) un privātu (slēptu) projektu",
@@ -676,7 +676,7 @@
             "WARNING_DELETE_ROLE": "Uzmanību! Zudīs visas šīs lomas aplēses",
             "ERROR_DELETE_ALL": "Visas vērtības nav dzēšamas",
             "EXTERNAL_USER": "Ārējais lietotājs",
-            "NOTE_EXTERNAL_USERS": "<strong>NB:</strong> ar Ārējo lietotāju tiek saprasts ikviens pie Taigas platformas nepiederošs anonīms lietotājs, tostarp meklētāji. Lūdzu izmantojiet šo lomu piesardzīgi."
+            "NOTE_EXTERNAL_USERS": "<strong>NB:</strong> ar Ārējo lietotāju tiek saprasts ikviens pie Nookipedia Taskss platformas nepiederošs anonīms lietotājs, tostarp meklētāji. Lūdzu izmantojiet šo lomu piesardzīgi."
         },
         "THIRD_PARTIES": {
             "SECRET_KEY": "Slepenā atslēga",
@@ -893,7 +893,7 @@
             "ACTION_CREATE_PROJECT": "Izveidot projektu",
             "MANAGE_PROJECTS": "Pārvaldīt projektus",
             "TITLE_CREATE_PROJECT": "Izveidot projektu",
-            "HELP_TITLE": "Taigas atbalsta lapa",
+            "HELP_TITLE": "Nookipedia Taskss atbalsta lapa",
             "HELP": "Palīdzība",
             "HOMEPAGE": "Tīmekļvietne",
             "FEEDBACK_TITLE": "Nosūtīt atsauksmi",
@@ -941,7 +941,7 @@
             "TEMPLATE_SCRUM": "Skram",
             "TEMPLATE_SCRUM_DESC": "Sakārtojiet, prioritarizējiet un atrisiniet uzdevumus īsos laika nogriežņos.",
             "TEMPLATE_SCRUM_LONGDESC": "Skram (Scrum) ir iteratīva un pakāpeniska, elastīga programmatūras izstrādes metodika produktu attīstības vadīšanai.\nProdukta kopējais darbu klāsts (backlog) ir tie uzdevumi, kas kopumā paveicami, sakārtoti prioritāšu secībā, kādā tie tiks padarīti. Produkta darbu klāsti tiek saskaldīti īsās, pārvaldāmās, izpildāmās daļās, kuras sauc par sprintiem. Katru noteiktu laika sprīdi komanda uzsāk/iniciē jaunu sprintu un apņemas apmierināt noteiktu skaitu darba klāstā ietverto vajadzību, atbilstoši tās prasmēm, spējām un resursiem. Projektam virzoties uz priekšu, darba klāsts sarūk.",
-            "TEMPLATE_KANBAN": "Kanban",
+            "TEMPLATE_KANBAN": "Tasks",
             "TEMPLATE_KANBAN_DESC": "Izlīdzināt neatkarīgu uzdevumu darba ritumu (pieturēties pie vienādiem darba principiem strādājot pie neatkarīgiem uzdevumiem)",
             "TEMPLATE_KANBAN_LONGDESC": "Kanban tehnoloģija tiek pielietota, lai sadalītu projektu (jebkura lieluma) daļās.\nKanban karte ir līdzīga piezīmju lapiņai, uz kuras smalki atzīmēts ikviens darbiņš (vajadzība) dotā projekta ietvaros. Kanban tāfele tiek izmantota, lai secīgi padarītu katrā piezīmju lapiņā atzīmēto, sekojot darbu norisei.",
             "DUPLICATE": "Dublēt projektu (veidot kopiju)",
@@ -970,7 +970,7 @@
         "IMPORT": {
             "TITLE": "Importēt projektu",
             "DESCRIPTION": "Importējiet Taigā savu projektu no citām platformām",
-            "ASYNC_IN_PROGRESS_TITLE": "Taiga importē jūsu projektu",
+            "ASYNC_IN_PROGRESS_TITLE": "Nookipedia Tasks importē jūsu projektu",
             "ASYNC_IN_PROGRESS_MESSAGE": "Šis process aizņems pāris minūtes.<br/> Tam beidzoties saņemsiet e-pastu. ",
             "UPLOAD_IN_PROGRESS_MESSAGE": "Augšuplādēts {{uploadedSize}} ar izmēru {{totalSize}}",
             "ERROR": "Sistēmai neizdodas importēt datus. Lūdzu mēģiniet vēlreiz.",
@@ -985,12 +985,12 @@
             "WRITE_EMAIL_LABEL": "Uzrakstiet ziņu uz e-pastu, kuru šis lietotājs izmanto Taigā",
             "ACCEEDE": "Pievienoties",
             "PROJECT_MEMBERS": "Projekta dalībnieki",
-            "PROCESS_DESCRIPTION": "Informējiet, kuram no Taigas vēlaties piešķirt {{platform}} uzdevumus",
+            "PROCESS_DESCRIPTION": "Informējiet, kuram no Nookipedia Taskss vēlaties piešķirt {{platform}} uzdevumus",
             "MATCH": "Vai <strong>{{user_external}}</strong> ir viena un tā pati persona kas <strong>{{user_internal}}</strong>?",
             "CHOOSE": "Atzīmēt lietotāju",
             "LINKS": "Saites ar {{platform}}",
             "LINKS_DESCRIPTION": "Vai vēlaties saglabāt katra elementa saikni ar oriģinālo {{platform}} karti?",
-            "WARNING_MAIL_USER": "Ņemiet vērā: ja lietotājam nav Taigas konta, nav iespējams viņam piešķirt uzdevumus.",
+            "WARNING_MAIL_USER": "Ņemiet vērā: ja lietotājam nav Nookipedia Taskss konta, nav iespējams viņam piešķirt uzdevumus.",
             "ASSIGN": "Piešķirt",
             "PROJECT_SELECTOR": {
                 "NO_RESULTS": "Nekas kritērijiem atbilstošs nav atrasts",
@@ -1033,8 +1033,8 @@
                 "DESCRIPTION": "Joprojām ir neidentificēti cilvēki. Šīm personām piešķirtās kartes paliks nepiešķirtas. Pārbaudiet visas kontaktpersonas, lai nezaudētu šo informāciju.",
                 "CHECK": "Pārbaudiet kontaktpersonas"
             },
-            "TAIGA": {
-                "SELECTOR": "Importēt Jūsu Taigas projektu"
+            "Nookipedia Tasks": {
+                "SELECTOR": "Importēt Jūsu Nookipedia Taskss projektu"
             },
             "TRELLO": {
                 "SELECTOR": "Importējiet savus Trello paneļus Taigā",
@@ -1057,7 +1057,7 @@
                 "SELECTOR": "Importējiet savu Asana projektu un izvēlieties, kā to pārvaldīt",
                 "CHOOSE_PROJECT": "Izvēlieties importējamo projektu",
                 "NO_PROJECTS": "Izskatās, ka Jums Asanā nav neviena projekta",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Skram (Scrum)",
                 "CREATE_AS_SCRUM_DESCRIPTION": "Jūsu projekta uzdevumi un apakšuzdevumi Taigā tiks izveidoti kā vajadzības un uzdevumi.",
                 "CREATE_AS_KANBAN_DESCRIPTION": "Jūsu projekta uzdevumi un apakšuzdevumi Taigā tiks izveidoti kā vajadzības un uzdevumi."
@@ -1068,20 +1068,20 @@
                 "CHOOSE_PROJECT": "Izvēlieties importējamo projektu vai paneli/dēli",
                 "NO_PROJECTS": "Izskatās, ka Jums Jirā nav projektu vai paneļu",
                 "URL": "Jūsu Jira URL",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Skram (Scrum)",
                 "ISSUES_PROJECT": "Izmaiņu pieprasījumi",
                 "CREATE_AS_SCRUM_DESCRIPTION": "Jūsu projekta izmaiņu pieprasījumi un apakš-izmaiņu pieprasījumi Taigā tiks izveidoti kā vajadzības un uzdevumi.",
                 "CREATE_AS_KANBAN_DESCRIPTION": "Jūsu projekta izmaiņu pieprasījumi un apakš-izmaiņu pieprasījumi Taigā tiks izveidoti kā vajadzības un uzdevumi.",
-                "CREATE_AS_ISSUES_DESCRIPTION": "Ko Jūs vēlaties darīt ar apakš-izmaiņu pieprasījumiem no projekta Jira? (Taiga neparedz apakš-izmaiņu pieprasījumus)",
-                "CREATE_NEW_ISSUES": "Pārvērst apakš-izmaiņu pieprasījumus par jauniem Taigas izmaiņu pieprasījumiem ",
+                "CREATE_AS_ISSUES_DESCRIPTION": "Ko Jūs vēlaties darīt ar apakš-izmaiņu pieprasījumiem no projekta Jira? (Nookipedia Tasks neparedz apakš-izmaiņu pieprasījumus)",
+                "CREATE_NEW_ISSUES": "Pārvērst apakš-izmaiņu pieprasījumus par jauniem Nookipedia Taskss izmaiņu pieprasījumiem ",
                 "NOT_CREATE_NEW_ISSUES": "Neimportēt apakš-izmaiņu pieprasījumus"
             }
         }
     },
     "LIGHTBOX": {
         "DELETE_ACCOUNT": {
-            "CONFIRM": "Patiesi vēlaties dzēst savu Taigas kontu?",
+            "CONFIRM": "Patiesi vēlaties dzēst savu Nookipedia Taskss kontu?",
             "CANCEL": "Atpakaļ uz iestatījumiem",
             "ACCEPT": "Dzēst kontu",
             "BLOCK_PROJECT": "Ņemiet vērā, ka pēc konta dzēšanas visi Jūsu projekti tiks <strong>bloķēti</strong>. Ja nevēlaties, lai projekts tiktu bloķēts, pirms konta dzēšanas nododiet katra projekta vadītāja tiesības citam dalībniekam."
@@ -1254,15 +1254,15 @@
         "RELATE_TO_EPIC": "Saikne ar Eposu",
         "REMOVE_RELATIONSHIP_WITH_EPIC": "Dzēst saikni ar Eposu",
         "TRIBE": {
-            "PUBLISH": "Publicēt kā koncertu/Gigu Taiga Tribe lapā",
+            "PUBLISH": "Publicēt kā koncertu/Gigu Nookipedia Tasks Tribe lapā",
             "PUBLISH_INFO": "Vairāk informācijas",
-            "PUBLISH_TITLE": "Vairāk informācijas par publicēšanu skatīt Taiga Tribe lapā",
-            "PUBLISHED_AS_GIG": "Vajadzība Taiga Tribe lapā publicēta kā Gigs ",
+            "PUBLISH_TITLE": "Vairāk informācijas par publicēšanu skatīt Nookipedia Tasks Tribe lapā",
+            "PUBLISHED_AS_GIG": "Vajadzība Nookipedia Tasks Tribe lapā publicēta kā Gigs ",
             "EDIT_LINK": "Rediģēt saiti",
             "CLOSE": "Aizvērt",
-            "SYNCHRONIZE_LINK": "sinhronizēt ar Taiga Tribe",
+            "SYNCHRONIZE_LINK": "sinhronizēt ar Nookipedia Tasks Tribe",
             "PUBLISH_MORE_INFO_TITLE": "Vai Jums kāds ir vajadzīgs šī uzdevuma veikšanai?",
-            "PUBLISH_MORE_INFO_TEXT": "<p>Ja jums nepieciešama palīdzība saistībā ar kādu konkrētu darbu, varat viegli izveidot gigus/koncertus <a href='http://taigatribe.com' title='Taiga Tribe'> Taiga Tribe </a> un saņemt palīdzību no visas pasaules. Jūs varēsit kontrolēt un pārvaldīt koncertu, saņemot lielas kopienas, kas vēlas sniegt savu ieguldījumu, atblstu.</p><p><a href='http://taigatribe.com' title='Taiga Tribe'> TaigaTribe </a> radās kā Taigas brālis. Abas platformas var pastāvēt atsevišķi, taču mēs uzskatām, ka to kopālietošana rada pievienoto vērtibu, kamdēļ mēs nodrošinām, ka integrācija darbojas nevainojami.</p>"
+            "PUBLISH_MORE_INFO_TEXT": "<p>Ja jums nepieciešama palīdzība saistībā ar kādu konkrētu darbu, varat viegli izveidot gigus/koncertus <a href='http://Nookipedia Taskstribe.com' title='Nookipedia Tasks Tribe'> Nookipedia Tasks Tribe </a> un saņemt palīdzību no visas pasaules. Jūs varēsit kontrolēt un pārvaldīt koncertu, saņemot lielas kopienas, kas vēlas sniegt savu ieguldījumu, atblstu.</p><p><a href='http://Nookipedia Taskstribe.com' title='Nookipedia Tasks Tribe'> Nookipedia TasksTribe </a> radās kā Nookipedia Taskss brālis. Abas platformas var pastāvēt atsevišķi, taču mēs uzskatām, ka to kopālietošana rada pievienoto vērtibu, kamdēļ mēs nodrošinām, ka integrācija darbojas nevainojami.</p>"
         }
     },
     "COMMENTS": {
@@ -1401,10 +1401,10 @@
     "ERROR": {
         "TEXT1": "Atgadījusies ķibele. Tiek risināts.",
         "NOT_FOUND": "Nav atrasts",
-        "NOT_FOUND_TEXT": "Kļūda 404. Lapa, kuru meklējat, vairs nepastāv. Iesakām atgriezties TAIGAs mājaslapā un tur pacensties atrast meklēto.",
+        "NOT_FOUND_TEXT": "Kļūda 404. Lapa, kuru meklējat, vairs nepastāv. Iesakām atgriezties Nookipedia Taskss mājaslapā un tur pacensties atrast meklēto.",
         "PERMISSION_DENIED": "Pieeja liegta",
         "PERMISSION_DENIED_TEXT": "Jums šai lapai pieeja liegta.",
-        "VERSION_ERROR": "Kāds Taigas iedzīvotājs šo jau ir mainījis, kamdēļ nav iespējams saglabāt Jūsu veiktās izmaiņas. Lūdzu, pārlādējiet lapu un vēlreiz saglabājiet izmaiņas (tās tiks zaudētas)."
+        "VERSION_ERROR": "Kāds Nookipedia Taskss iedzīvotājs šo jau ir mainījis, kamdēļ nav iespējams saglabāt Jūsu veiktās izmaiņas. Lūdzu, pārlādējiet lapu un vēlreiz saglabājiet izmaiņas (tās tiks zaudētas)."
     },
     "TASKBOARD": {
         "PAGE_TITLE": "{{sprintName}} - Sprinta panelis - {{projectName}}",
@@ -1470,7 +1470,7 @@
         "OK": "Darīts.",
         "WARNING": "Kaut kas nogāja greizi...",
         "WARNING_TEXT": "Izmaiņas NEtika saglabātas!",
-        "SAVED": "Taiga saglabāja visas izmaiņas!",
+        "SAVED": "Nookipedia Tasks saglabāja visas izmaiņas!",
         "CLOSE": "Aizvērt paziņojumu",
         "MAIL": "Paziņojumi ar e-pastu",
         "DESKTOP": "Darbvirsmas paziņojumi, izmantojot pārlūka brīdinājumus",
@@ -1481,21 +1481,21 @@
         "SUBTITLE": "Žēl, ka pametat Taigu. Ceram, ka Jūsu uzturēšanās šeit bija patīkama :)",
         "PLACEHOLDER_INPUT_TOKEN": "konta dzēšanas/anulēšanas tokens",
         "ACTION_LEAVING": "Jā, es pazūdu!",
-        "SUCCESS": "Taiga dzēsusi jūsu kontu"
+        "SUCCESS": "Nookipedia Tasks dzēsusi jūsu kontu"
     },
     "CHANGE_EMAIL_FORM": {
         "TITLE": "Mainīt savu e-pasta adresi",
         "SUBTITLE": "Viens klikšķis un Jūsu e-pasta adrese būs nomainīta.",
         "PLACEHOLDER_INPUT_TOKEN": "nomainīt e-pasta tokenu",
         "ACTION_CHANGE_EMAIL": "Mainīt e-pastu",
-        "SUCCESS": "Taiga izmainījusi jūsu epasta adresi."
+        "SUCCESS": "Nookipedia Tasks izmainījusi jūsu epasta adresi."
     },
     "VERIFY_EMAIL_FORM": {
         "TITLE": "Verify your email",
         "SUBTITLE": "One click more and your email will be verified!",
         "PLACEHOLDER_INPUT_TOKEN": "nomainīt e-pasta tokenu",
         "ACTION_VERIFY_EMAIL": "Verify email",
-        "SUCCESS": "The Taiga verified your email"
+        "SUCCESS": "Nookipedia Tasks verified your email"
     },
     "ISSUES": {
         "PAGE_TITLE": "Izmaiņu pieprasījumi - {{projectName}}",
@@ -1551,7 +1551,7 @@
         "PAGE_DESCRIPTION": "Statuss: {{issueStatus}}. Tips: {{issueType}}. Prioritāte: {{issuePriority}}. Nozīmīgums: {{issueSeverity}}. Apraksts: {{issueDescription}}"
     },
     "KANBAN": {
-        "PAGE_TITLE": "Kanban - {{projectName}}",
+        "PAGE_TITLE": "Tasks - {{projectName}}",
         "PAGE_DESCRIPTION": "Kanban panelis ar projekta {{projectName}} vajadzībām: {{projectDescription}}",
         "SECTION_NAME": "Kanbans",
         "TITLE_ACTION_FOLD": "Savērst kolonu/stabiņu",
@@ -1628,7 +1628,7 @@
         },
         "EVENTS": {
             "SECTION_NAME": "Notikumi",
-            "SECTION_DESCRIPTION": "Vēlaties redzēt svarīgus notikumus Taigas augšjoslā",
+            "SECTION_DESCRIPTION": "Vēlaties redzēt svarīgus notikumus Nookipedia Taskss augšjoslā",
             "SECTION_DESCRIPTION_EXPANDED": "(tiešus pieminējumus | aktualizētus objektus, kurus vērojat)?",
             "COLUMN_ENABLED": "Iespējots",
             "COLUMN_PROJECT": "Projekts"
@@ -1636,8 +1636,8 @@
     },
     "USER_PROFILE": {
         "ACTION_USE_GRAVATAR": "Izmantot noklusējuma attēlu",
-        "ACTION_DELETE_ACCOUNT": "Dzēst Taigas kontu",
-        "ACTION_DOWNLOAD_PROFILE": "Lejuplādēt Jūsu Taigas profilu",
+        "ACTION_DELETE_ACCOUNT": "Dzēst Nookipedia Taskss kontu",
+        "ACTION_DOWNLOAD_PROFILE": "Lejuplādēt Jūsu Nookipedia Taskss profilu",
         "ACTION_VERIFY_EMAIL": "Verify your email",
         "CHANGE_EMAIL_SUCCESS": "<strong>Pārbaudīt pastkasti!</strong>Uz šo Jūsu kontu nosūtīts e-pasts<br />ar norādījumiem, kā iestatīt jaunu adresi<br />",
         "VERIFY_EMAIL_SUCCESS": "<strong>Check your inbox!</strong><br />We have sent you an email<br />with instructions on how to verify your address",
@@ -1688,7 +1688,7 @@
         "LINK": "Kā šo izmantot, aprakstīts mūsu mājaslapā",
         "LINK_TITLE": "Apmeklēt atbalsta lapu",
         "HINT1_TITLE": "Vai ir zināms, ka projekti ir importējami/eksportējami?",
-        "HINT1_TEXT": "Šis ļauj pārnest visus datus no vienas Taigas uz citu.",
+        "HINT1_TEXT": "Šis ļauj pārnest visus datus no vienas Nookipedia Taskss uz citu.",
         "HINT2_TITLE": "Vai Jums ir zināms par pielāgojamiem laukiem?",
         "HINT2_TEXT": "Tagad komandas var izveidot pielāgotus laukus kā elastīgu līdzekli, lai ievadītu specifiskus datus, kuri noderīgi viņu darbplūsmai.",
         "HINT3_TITLE": "Pārkārtojiet savus projektus, lai izceltu tos, kuri Jums ir aktuālākie.",
@@ -1731,7 +1731,7 @@
         "US_REMOVED_FROM_MILESTONE": "{{lietotājvārds}} darbu klāstam pievienoja VAJADZĪBU {{obj_name}}",
         "BLOCKED": "{{username}} ir bloķējis {{obj_name}}",
         "UNBLOCKED": "{{username}} ir atbloķējis {{obj_name}}",
-        "NEW_USER": "{{username}} ir pievienojies Taigai",
+        "NEW_USER": "{{username}} ir pievienojies Nookipedia Tasksi",
         "ITEM_TYPES": {
             "USERSTORY": "Vajadzība",
             "ISSUE": "Izmaiņu pieprasījums",
@@ -1761,7 +1761,7 @@
     "EXTERNAL_APP": {
         "PAGE_TITLE": "Ārējā aplikācija pieprasa autentifikāciju",
         "PAGE_DESCRIPTION": "Ārējā aplikācija pieprasa autentificēšanos",
-        "AUTHORIZATION_REQUEST": "Autorizēt {{application}} lietot Jūsu Taigas kontu?",
+        "AUTHORIZATION_REQUEST": "Autorizēt {{application}} lietot Jūsu Nookipedia Taskss kontu?",
         "LOGIN_WITH_ANOTHER_USER": "Pieslēgties kā cits lietotājs",
         "AUTHORIZE_APP": "Autorizēt aplikāciju",
         "CANCEL": "Atcelt"
@@ -1829,8 +1829,8 @@
         }
     },
     "DISCOVER": {
-        "PAGE_TITLE": "Pārlūkot citus Taigas projektus",
-        "PAGE_DESCRIPTION": "Meklējams Taigas publisko projektu katalogs. Iepētiet darba klāstu, laika grafikus, izmaiņu pieprasījumus un komandas. Apskatiet visvairāk iepatikušos un aktīvākos projektus. Filtrējiet pēc Kanban vai Skram.",
+        "PAGE_TITLE": "Pārlūkot citus Nookipedia Taskss projektus",
+        "PAGE_DESCRIPTION": "Meklējams Nookipedia Taskss publisko projektu katalogs. Iepētiet darba klāstu, laika grafikus, izmaiņu pieprasījumus un komandas. Apskatiet visvairāk iepatikušos un aktīvākos projektus. Filtrējiet pēc Kanban vai Skram.",
         "DISCOVER_TITLE": "Pārlūkot projektus",
         "DISCOVER_SUBTITLE": "{projects, plural, =1{1 publisks projekts, ar kuru iepazīties} other{# publiski projekti, ar kuriem iepazīties}}",
         "MOST_ACTIVE": "Visaktīvākie",
@@ -1842,7 +1842,7 @@
         "EMPTY": "Nav meklēšanas kritērijiem atbilstošu projektu.<br> Mēģiniet vēlreiz!",
         "FILTERS": {
             "ALL": "Visus",
-            "KANBAN": "Kanban",
+            "KANBAN": "Tasks",
             "SCRUM": "Skram",
             "PEOPLE": "Meklē cilvēkus",
             "WEEK": "Pagājušajā nedēļā",
@@ -1852,8 +1852,8 @@
             "CLEAR": "Noņemt filtrus"
         },
         "SEARCH": {
-            "PAGE_TITLE": "Meklēt - Pārlūkot projektus - Taiga",
-            "PAGE_DESCRIPTION": "Meklējams Taigas publisko projektu katalogs. Iepētiet darba klāstu, laika grafikus, izmaiņu pieprasījumus un komandas. Apskatiet visvairāk iepatikušos un aktīvākos projektus. Atlasiet pēc Kanban vai Skram.",
+            "PAGE_TITLE": "Meklēt - Pārlūkot projektus - Nookipedia Tasks",
+            "PAGE_DESCRIPTION": "Meklējams Nookipedia Taskss publisko projektu katalogs. Iepētiet darba klāstu, laika grafikus, izmaiņu pieprasījumus un komandas. Apskatiet visvairāk iepatikušos un aktīvākos projektus. Atlasiet pēc Kanban vai Skram.",
             "INPUT_PLACEHOLDER": "Ierakstiet kaut ko...",
             "ACTION_TITLE": "Meklēt",
             "RESULTS": "Meklēšanas rezultāti"

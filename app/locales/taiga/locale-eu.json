@@ -39,7 +39,7 @@
         "NEXT": "Hurrengoa",
         "LOGOUT": "Amaitu saioa",
         "EXTERNAL_USER": "kanpo erabiltzailea",
-        "GENERIC_ERROR": "Taigak dio: {{error}}",
+        "GENERIC_ERROR": "Nookipedia Tasksk dio: {{error}}",
         "IOCAINE_TEXT": "Lankide hau nahiko estutua dabil ataza honekin. Denborarekin eta zure laguntzarekin, agian pozoiaren aurkako immunitatea lortuko du. Oraingoz, nahikoa izango luke irribarretxo bat.",
         "CLIENT_REQUIREMENT": "Bezeroaren eskaera bat da aurreikusi gabeko eginkizun bat, baina proiektuan txertatu beharrekoa",
         "TEAM_REQUIREMENT": "Lantalde eskaera proiektuan egin behar da, baina ezin du izan kosturik bezeroarentzat",
@@ -311,8 +311,8 @@
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "Hasi saioa Taigan",
-        "PAGE_DESCRIPTION": "Taigan saioa hasten… Proiektuak kudeatzeko plataforma arin bat, garatzaile eta diseinatzaileentzat, itxura soil bezain eder batez, lanari etekin handiagoa ateratzeko."
+        "PAGE_TITLE": "Hasi saioa Nookipedia Tasksn",
+        "PAGE_DESCRIPTION": "Nookipedia Tasksn saioa hasten… Proiektuak kudeatzeko plataforma arin bat, garatzaile eta diseinatzaileentzat, itxura soil bezain eder batez, lanari etekin handiagoa ateratzeko."
     },
     "AUTH": {
         "INVITED_YOU": "gonbidatuta zaude proiektuarekin bat egitera",
@@ -321,7 +321,7 @@
         "CREATE_ACCOUNT": "sortu zure doaneko kontuan hemen"
     },
     "LOGIN_COMMON": {
-        "HEADER": "Badaukat Taigan kontu bat",
+        "HEADER": "Badaukat Nookipedia Tasksn kontu bat",
         "PLACEHOLDER_AUTH_NAME": "Erabiltzailea edo e-posta (letra larriak bereizten ditu)",
         "LINK_FORGOT_PASSWORD": "Ahaztu zaizu?",
         "TITLE_LINK_FORGOT_PASSWORD": "Pasahitza ahaztu zaizu?",
@@ -331,15 +331,15 @@
         "ALT_LOGIN": "Edo hasi saioa honekin:"
     },
     "LOGIN_FORM": {
-        "ERROR_AUTH_INCORRECT": "Taigaren arabera, zure erabiltzailea/e-posta edo pasahitza ez dira zuzenak.",
-        "SUCCESS": "Ongi etorri Taigara."
+        "ERROR_AUTH_INCORRECT": "Nookipedia Tasksren arabera, zure erabiltzailea/e-posta edo pasahitza ez dira zuzenak.",
+        "SUCCESS": "Ongi etorri Nookipedia Tasksra."
     },
     "REGISTER": {
-        "PAGE_TITLE": "Eman izena - Taiga",
-        "PAGE_DESCRIPTION": "Sortu kontu bat Taigan… Proiektuak kudeatzeko plataforma arin bat, garatzaile eta diseinatzaileentzat, itxura soil bezain eder batez, lanari etekin handiagoa ateratzeko."
+        "PAGE_TITLE": "Eman izena - Nookipedia Tasks",
+        "PAGE_DESCRIPTION": "Sortu kontu bat Nookipedia Tasksn… Proiektuak kudeatzeko plataforma arin bat, garatzaile eta diseinatzaileentzat, itxura soil bezain eder batez, lanari etekin handiagoa ateratzeko."
     },
     "REGISTER_FORM": {
-        "TITLE": "Sortu Taiga kontu berri bat (doan)",
+        "TITLE": "Sortu Nookipedia Tasks kontu berri bat (doan)",
         "PLACEHOLDER_NAME": "Hautatu erabiltzaile izen bat (letra larriak bereizten ditu)",
         "PLACEHOLDER_FULL_NAME": "Idatzi zure izen-deiturak",
         "PLACEHOLDER_EMAIL": "Zure e-posta",
@@ -349,8 +349,8 @@
         "LINK_LOGIN": "Izena eman duzu? Hasi saioa Hasi saioa"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "Pasahitza ahaztuta - Taiga",
-        "PAGE_DESCRIPTION": "Sartu zure erabiltzaile izena edo e-posta, pasahitz berri bat eskuratzeko, Taigara etortzen zaren hurrengorako."
+        "PAGE_TITLE": "Pasahitza ahaztuta - Nookipedia Tasks",
+        "PAGE_DESCRIPTION": "Sartu zure erabiltzaile izena edo e-posta, pasahitz berri bat eskuratzeko, Nookipedia Tasksra etortzen zaren hurrengorako."
     },
     "FORGOT_PASSWORD_FORM": {
         "TITLE": "Ene, pasahitza ahaztu zaizu?",
@@ -360,10 +360,10 @@
         "LINK_CANCEL": "Ez, eraman nazazu atzera Uste dut gogoratzen naizela.",
         "SUCCESS_TITLE": "Begiratu zure e-posta!",
         "SUCCESS_TEXT": "Posta mezu bat bidali dizugu, pasahitz berri bat ezartzeko jarraibideekin.",
-        "ERROR": "Taigaren arabera, ez duzu izenik eman."
+        "ERROR": "Nookipedia Tasksren arabera, ez duzu izenik eman."
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "Aldatu pasahitza - Taiga",
+        "PAGE_TITLE": "Aldatu pasahitza - Nookipedia Tasks",
         "SECTION_NAME": "Aldatu pasahitza",
         "FIELD_CURRENT_PASSWORD": "Oraingo pasahitza",
         "PLACEHOLDER_CURRENT_PASSWORD": "Oraingo zure pasahitza (edo laga hutsik ez baduzu oraindik)",
@@ -374,26 +374,26 @@
         "ERROR_PASSWORD_MATCH": "Pasahitzak ez datoz bat"
     },
     "CHANGE_PASSWORD_RECOVERY_FORM": {
-        "TITLE": "Sortu Taigarako pasahitz berria",
+        "TITLE": "Sortu Nookipedia Tasksrako pasahitz berria",
         "SUBTITLE": "Aizu, agian komeni zaizu jan burdindunen bat irenstea, ona da garunarentzat :P",
         "PLACEHOLDER_NEW_PASSWORD": "Pasahitz berria",
         "PLACEHOLDER_RE_TYPE_NEW_PASSWORD": "Idatzi berriro pasahitz berria",
         "ACTION_RESET_PASSWORD": "Berrezarri pasahitza",
-        "ERROR": "Taigak ezin du aurkitu zure eskaera, pasahitza berreskuratzeko.  Saiatu berriro eskatzen.",
-        "SUCCESS": "Taigak gorde du zure pasahitz berria.<br /> Saiatu <strong>saioa hasten</strong> berarekin."
+        "ERROR": "Nookipedia Tasksk ezin du aurkitu zure eskaera, pasahitza berreskuratzeko.  Saiatu berriro eskatzen.",
+        "SUCCESS": "Nookipedia Tasksk gorde du zure pasahitz berria.<br /> Saiatu <strong>saioa hasten</strong> berarekin."
     },
     "INVITATION": {
-        "PAGE_TITLE": "Gonbita onartu - Taiga",
-        "PAGE_DESCRIPTION": "Onartu gonbidapena proiektu baterako Taigan… Proiektuak kudeatzeko plataforma arin bat, garatzaile eta diseinatzaileentzat, itxura soil bezain eder batez, lanari etekin handiagoa ateratzeko."
+        "PAGE_TITLE": "Gonbita onartu - Nookipedia Tasks",
+        "PAGE_DESCRIPTION": "Onartu gonbidapena proiektu baterako Nookipedia Tasksn… Proiektuak kudeatzeko plataforma arin bat, garatzaile eta diseinatzaileentzat, itxura soil bezain eder batez, lanari etekin handiagoa ateratzeko."
     },
     "INVITATION_LOGIN_FORM": {
-        "NOT_FOUND": "Taigak ezin du zure gonbidapena aurkitu.",
+        "NOT_FOUND": "Nookipedia Tasksk ezin du zure gonbidapena aurkitu.",
         "SUCCESS": "Bat egin duzu, ongi etorri proiektu honetara: {{project_name}}"
     },
     "HOME": {
-        "PAGE_TITLE": "Hasiera - Taiga",
-        "PAGE_DESCRIPTION": "Taigaren hasierako orrian aurkituko dituzu zure proiektuak, zuri egotzitako eginkizun, ataza eta gertakariekin.",
-        "EMPTY_WORKING_ON": "<strong>Hutsik dago, ezta?</strong> Hasi Taigarekin lanean eta hemen ikusiko dituzu lantzen ari zaren eginkizun, ataza eta gertakariak.",
+        "PAGE_TITLE": "Hasiera - Nookipedia Tasks",
+        "PAGE_DESCRIPTION": "Nookipedia Tasksren hasierako orrian aurkituko dituzu zure proiektuak, zuri egotzitako eginkizun, ataza eta gertakariekin.",
+        "EMPTY_WORKING_ON": "<strong>Hutsik dago, ezta?</strong> Hasi Nookipedia Tasksrekin lanean eta hemen ikusiko dituzu lantzen ari zaren eginkizun, ataza eta gertakariak.",
         "EMPTY_WATCHING": "<strong>Jarraiki</strong> zure proiektuen eginkizunei, atazei eta gertakariei eta jaso aldaketen jakinarazpenak :)",
         "EMPTY_PROJECT_LIST": "Ez duzu proiekturik oraingoz",
         "WORKING_ON_SECTION": "Lantzen",
@@ -443,7 +443,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "Nire proiektuak - Taiga",
+        "PAGE_TITLE": "Nire proiektuak - Nookipedia Tasks",
         "PAGE_DESCRIPTION": "Zure proiektu guztien zerrenda; hurrenkera aldatu edo berri ba sor dezakezu.",
         "MY_PROJECTS": "Nire proiektuak"
     },
@@ -466,7 +466,7 @@
         "TITLE_LIGHTBOX_DELETE_ATTACHMENT": "Ezabatu eranskina…",
         "MSG_LIGHTBOX_DELETE_ATTACHMENT": "eranskin hau: '{{fileName}}'",
         "ERROR_DELETE_ATTACHMENT": "Ezin izan dugu ezabatu: {{errorMessage}}",
-        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) handiegia da Taigarentzat; saiatu ({{maxFileSize}}) baino txikiagoko fitxategi batekin"
+        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) handiegia da Nookipedia Tasksrentzat; saiatu ({{maxFileSize}}) baino txikiagoko fitxategi batekin"
     },
     "PAGINATION": {
         "PREVIOUS": "Aurrekoa",
@@ -502,8 +502,8 @@
             "LOADING_MESSAGE": "Mesedez ez itxi orri hau.",
             "ASYNC_MESSAGE": "E-posta mezu bat bidaliko dizugu prest dagoenean.",
             "SYNC_MESSAGE": "Karga ez bada berez hasten, klik egin <a href='{{url}}' download title='Deskargatu fitxategia'>hemen</a>.",
-            "ERROR": "Taigak arazoren bat du deskarga sortzeko. Saiatu berriro, mesedez. ",
-            "ERROR_BUSY": "Barka, Taiga oso lanpetuta dago orain. Saiatu berriro hemendik pixka batera, mesedez."
+            "ERROR": "Nookipedia Tasksk arazoren bat du deskarga sortzeko. Saiatu berriro, mesedez. ",
+            "ERROR_BUSY": "Barka, Nookipedia Tasks oso lanpetuta dago orain. Saiatu berriro hemendik pixka batera, mesedez."
         },
         "MODULES": {
             "TITLE": "Moduluak",
@@ -515,7 +515,7 @@
             "NUMBER_SPRINTS_HELP": "0 zehaztu gabeko kopurua nahi bada",
             "NUMBER_US_POINTS": "Eginkizunaren gehienezko puntuak",
             "NUMBER_US_POINTS_HELP": "0 zehaztu gabeko kopurua nahi bada",
-            "KANBAN": "Kanban",
+            "KANBAN": "Tasks",
             "KANBAN_DESCRIPTION": "Antolatu proiektua era lirain batean arbel honen bitartez.",
             "ISSUES": "Gertakariak",
             "ISSUES_DESCRIPTION": "Jarraitu zure proiektuaren akatsak, galderak eta hobekuntzak. Ez galdu ezer! Ez galdu ezer!",
@@ -540,7 +540,7 @@
             "RECRUITING": "Proiektu honek lankideak behar al ditu?",
             "RECRUITING_MESSAGE": "Zeren bila ari zara?",
             "RECRUITING_PLACEHOLDER": "Zehaztu zein soslai bilatu nahi duzun",
-            "FEEDBACK": "Nahi dituzu Taigako erabiltzaileen iritziak jaso?",
+            "FEEDBACK": "Nahi dituzu Nookipedia Tasksko erabiltzaileen iritziak jaso?",
             "PUBLIC_PROJECT": "Proiektu publikoa",
             "PRIVATE_PROJECT": "Proiektu pribatua",
             "PRIVATE_OR_PUBLIC": "Zein alde dago proiektu publiko eta pribatuen artean?",
@@ -676,7 +676,7 @@
             "WARNING_DELETE_ROLE": "Erne! Erne, rol honek egindako kalkulu guztiak ezabatuko dira",
             "ERROR_DELETE_ALL": "Ezin dituzu ezabatu balio guztiak",
             "EXTERNAL_USER": "Kanpo esteka",
-            "NOTE_EXTERNAL_USERS": "<strong>Oharra:</strong> kanpoko erabiltzailetzat jotzen dugu Taigan izena eman gabeko edonor, baita bilatzaileak ere.  Kontuz, erabili rol hori zentzuz."
+            "NOTE_EXTERNAL_USERS": "<strong>Oharra:</strong> kanpoko erabiltzailetzat jotzen dugu Nookipedia Tasksn izena eman gabeko edonor, baita bilatzaileak ere.  Kontuz, erabili rol hori zentzuz."
         },
         "THIRD_PARTIES": {
             "SECRET_KEY": "Giltza sekretua",
@@ -882,7 +882,7 @@
             "TIMELINE": "Kronologia",
             "EPICS": "Mugarriak",
             "BACKLOG": "Atzeratutako lana",
-            "KANBAN": "Kanban",
+            "KANBAN": "Tasks",
             "ISSUES": "Gertakariak",
             "WIKI": "Wiki",
             "TEAM": "Lantaldea",
@@ -893,7 +893,7 @@
             "ACTION_CREATE_PROJECT": "Sortu proiektu bat",
             "MANAGE_PROJECTS": "Kudeatu proiektuak",
             "TITLE_CREATE_PROJECT": "Sortu proiektu bat",
-            "HELP_TITLE": "Taiga laguntza orria",
+            "HELP_TITLE": "Nookipedia Tasks laguntza orria",
             "HELP": "Laguntza",
             "HOMEPAGE": "Hasiera",
             "FEEDBACK_TITLE": "Bidali iruzkinak",
@@ -941,13 +941,13 @@
             "TEMPLATE_SCRUM": "Scrum",
             "TEMPLATE_SCRUM_DESC": "Antolatu zure atazak aldi laburretan, lehentasunak ezarrita",
             "TEMPLATE_SCRUM_LONGDESC": "Scrum softwarea garatzeko metodologia bat da, errepikatzailea eta metatzailea, produktuen garapena kudeatzeko sortua.\nProduktua garatzeko egin beharreko lana sekuentzia batean antolatzen da, hurrenkera zorrotzaz. Egin beharreko horiek zatiki erabilgarritan banatzen dira, epe bat dutenak.  Aldiro-aldiro, lantaldeak urrats berri bati ekiten dio, eginkizun kopuru bat amaitzeko konpromisoaz, eskura dituen trebetasun, jakintza eta baliabideen arabera. Proiektua aurrera doa atzeratutako lana gutxitzen den heinean.",
-            "TEMPLATE_KANBAN": "Kanban",
+            "TEMPLATE_KANBAN": "Tasks",
             "TEMPLATE_KANBAN_DESC": "Eduki lan katea etengabe bat ataza bereizietan",
             "TEMPLATE_KANBAN_LONGDESC": "Kanban metodologia erabili ohi da proiektuen garapena urratsetan banatzeko.\nKanban txartel edo ohar moduko bat da, gauzatu beharreko eginkizun eta atazak xehatzen dituena. Kanban arbela erabiltzen da txartelak urratsez urrats eramaten joateko eta, horrela, aurrerabidearen jarraipena egiteko.",
             "DUPLICATE": "Bikoiztu proiektua",
             "DUPLICATE_DESC": "Hasi konfigurazioa hutsetik",
             "IMPORT": "Inportatu proiektua",
-            "IMPORT_DESC": "Inportatu zure proiektua plataforma anitzetatik Taigara",
+            "IMPORT_DESC": "Inportatu zure proiektua plataforma anitzetatik Nookipedia Tasksra",
             "INVITE": "Gonbidatu proiektura",
             "SOLO_PROJECT": "Bakarrik egongo zara proiektu honetan",
             "INVITE_LATER": "(Geroago ere lankide gehiago gonbidatzen ahal dituzu)",
@@ -969,28 +969,28 @@
         },
         "IMPORT": {
             "TITLE": "Inportatu proiektua",
-            "DESCRIPTION": "Inportatu zure proiektua plataforma anitzetatik Taigara",
-            "ASYNC_IN_PROGRESS_TITLE": "Taiga zure proiektua inportatzen ari da",
+            "DESCRIPTION": "Inportatu zure proiektua plataforma anitzetatik Nookipedia Tasksra",
+            "ASYNC_IN_PROGRESS_TITLE": "Nookipedia Tasks zure proiektua inportatzen ari da",
             "ASYNC_IN_PROGRESS_MESSAGE": "Prozesu honek minutu batzuk beharko ditu <br />Bidaliko dizugu e-posta mezu bat prest dagoenean",
             "UPLOAD_IN_PROGRESS_MESSAGE": "{{uploadedSize}} kargatuta, guztira {{totalSize}}",
-            "ERROR": "Taigak arazoren bat du zure deskarga datuak inportatzeko. Saiatu berriro, mesedez.",
-            "ERROR_TOO_MANY_REQUEST": "Barka, Taiga oso lanpetuta dago orain. Saiatu berriro hemendik pixka batera, mesedez.",
-            "ERROR_MESSAGE": "Taigak arazoren bat du zure deskarga datuak inportatzeko: {{error_message}}",
-            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) handiegia da Taigarentzat; saiatu ({{maxFileSize}}) baino txikiagoko fitxategi batekin",
+            "ERROR": "Nookipedia Tasksk arazoren bat du zure deskarga datuak inportatzeko. Saiatu berriro, mesedez.",
+            "ERROR_TOO_MANY_REQUEST": "Barka, Nookipedia Tasks oso lanpetuta dago orain. Saiatu berriro hemendik pixka batera, mesedez.",
+            "ERROR_MESSAGE": "Nookipedia Tasksk arazoren bat du zure deskarga datuak inportatzeko: {{error_message}}",
+            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) handiegia da Nookipedia Tasksrentzat; saiatu ({{maxFileSize}}) baino txikiagoko fitxategi batekin",
             "SYNC_SUCCESS": "Zure proiektua ongi inportatu dugu",
             "IMPORT": "Inportatu",
             "WHO_IS": "Ataza horiek honi esleituko zaizkio…",
-            "WRITE_EMAIL": "Edo, nahiago baduzu, idatzi erabiltzailearen e-posta Taigan",
+            "WRITE_EMAIL": "Edo, nahiago baduzu, idatzi erabiltzailearen e-posta Nookipedia Tasksn",
             "SEARCH_CONTACT": "Edo nahiago baduzu, bilatu zure kontaktuetan",
-            "WRITE_EMAIL_LABEL": "Idatzi erabiltzailearen e-posta Taigan",
+            "WRITE_EMAIL_LABEL": "Idatzi erabiltzailearen e-posta Nookipedia Tasksn",
             "ACCEEDE": "Baimendu",
             "PROJECT_MEMBERS": "Proiektuaren lankideak",
-            "PROCESS_DESCRIPTION": "Esaiguzu Taigako nori esleitu nahi dizkiozun plataforma honen atazak: {{platform}}",
+            "PROCESS_DESCRIPTION": "Esaiguzu Nookipedia Tasksko nori esleitu nahi dizkiozun plataforma honen atazak: {{platform}}",
             "MATCH": "pertsona bera al dira <strong>{{user_external}}</strong> eta <strong>{{user_internal}}</strong>?",
             "CHOOSE": "Hautatu erabiltzailea",
             "LINKS": "Estekak honekin: {{platform}}",
             "LINKS_DESCRIPTION": "Nahi dituzu gorde osagai bakoitzaren estekak jatorrizko {{platform}} txartelarekin?",
-            "WARNING_MAIL_USER": "Gogoan izan erabiltzaileak ez badu Taiga kontu bat ezin izango diozula atazarik esleitu berari.",
+            "WARNING_MAIL_USER": "Gogoan izan erabiltzaileak ez badu Nookipedia Tasks kontu bat ezin izango diozula atazarik esleitu berari.",
             "ASSIGN": "Esleitu",
             "PROJECT_SELECTOR": {
                 "NO_RESULTS": "Ez dugu ezer aurkitu bilaketa irizpide horiekin",
@@ -1033,11 +1033,11 @@
                 "DESCRIPTION": "Identifikatu gabeko jendea dago oraindik. Pertsona horiei esleitutako txartelak esleitu gabe geldituko dira. Begiratu kontaktu guztiak informazio hori ez galtzeko.",
                 "CHECK": "Begiratu kontaktuak"
             },
-            "TAIGA": {
-                "SELECTOR": "Inportatu zure Taiga proiektua"
+            "Nookipedia Tasks": {
+                "SELECTOR": "Inportatu zure Nookipedia Tasks proiektua"
             },
             "TRELLO": {
-                "SELECTOR": "Inportatu Trello arbelak Taigara",
+                "SELECTOR": "Inportatu Trello arbelak Nookipedia Tasksra",
                 "CHOOSE_PROJECT": "Aukeratu zein arbel nahi duzun inportatu",
                 "NO_PROJECTS": "Badirudi ez duzula arbelik Trellon"
             },
@@ -1045,7 +1045,7 @@
                 "SELECTOR": "Inportatu GitHub proiektuaren gertakariak",
                 "CHOOSE_PROJECT": "Aurkitu zein proiektu nahi duzun inportatu",
                 "NO_PROJECTS": "Badirudi ez duzula proiekturik GitHuben",
-                "HOW_DO_YOU_WANT_TO_IMPORT": "Nola nahi dituzu gertakariak inportatu Taigara?",
+                "HOW_DO_YOU_WANT_TO_IMPORT": "Nola nahi dituzu gertakariak inportatu Nookipedia Tasksra?",
                 "KANBAN_PROJECT": "Kanban proiektu bateko eginkizun gisa",
                 "KANBAN_PROJECT_DESCRIPTION": "Hori egin ondoren, Scrum gaitu ahal izango duzu egin beharreko lanarekin",
                 "SCRUM_PROJECT": "Scrum proiektu baten eginkizun gisa",
@@ -1057,10 +1057,10 @@
                 "SELECTOR": "Inportatu Asana proiektua eta hautatu nola kudeatu",
                 "CHOOSE_PROJECT": "Aukeratu zein proiektu nahi duzun inportatu",
                 "NO_PROJECTS": "Badirudi ez duzula proiekturik Asanan",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Scrum",
-                "CREATE_AS_SCRUM_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Taigan eginkizun eta atazak",
-                "CREATE_AS_KANBAN_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Taigan eginkizun eta atazak"
+                "CREATE_AS_SCRUM_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Nookipedia Tasksn eginkizun eta atazak",
+                "CREATE_AS_KANBAN_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Nookipedia Tasksn eginkizun eta atazak"
             },
             "JIRA": {
                 "SELECTOR": "Inportatu Jira proiektua eta hautatu nola kudeatu",
@@ -1068,20 +1068,20 @@
                 "CHOOSE_PROJECT": "Aukeratu zein proiektu edo arbel nahi duzun inportatu",
                 "NO_PROJECTS": "Badirudi ez duzula proiekturik edo arbelik Jiran",
                 "URL": "Zure Jira URLa",
-                "KANBAN_PROJECT": "Kanban",
+                "KANBAN_PROJECT": "Tasks",
                 "SCRUM_PROJECT": "Scrum",
                 "ISSUES_PROJECT": "Gertakariak",
-                "CREATE_AS_SCRUM_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Taigan eginkizun eta atazak",
-                "CREATE_AS_KANBAN_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Taigan eginkizun eta atazak",
-                "CREATE_AS_ISSUES_DESCRIPTION": "Zer nahi duzu egin Jira proiektuko azpi-gertakariekin? (Taigak ez du onartzen azpi-gertakaririk)",
-                "CREATE_NEW_ISSUES": "Bihurtu azpi-gertakariak Taigako gertakari",
+                "CREATE_AS_SCRUM_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Nookipedia Tasksn eginkizun eta atazak",
+                "CREATE_AS_KANBAN_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Nookipedia Tasksn eginkizun eta atazak",
+                "CREATE_AS_ISSUES_DESCRIPTION": "Zer nahi duzu egin Jira proiektuko azpi-gertakariekin? (Nookipedia Tasksk ez du onartzen azpi-gertakaririk)",
+                "CREATE_NEW_ISSUES": "Bihurtu azpi-gertakariak Nookipedia Tasksko gertakari",
                 "NOT_CREATE_NEW_ISSUES": "Ez inportatu azpi-gertakariak"
             }
         }
     },
     "LIGHTBOX": {
         "DELETE_ACCOUNT": {
-            "CONFIRM": "Ziur zaude Taiga kontua ezabatu nahi duzula?",
+            "CONFIRM": "Ziur zaude Nookipedia Tasks kontua ezabatu nahi duzula?",
             "CANCEL": "Atzera ezarpenetara",
             "ACCEPT": "Ezabatu kontua",
             "BLOCK_PROJECT": "Gogoan izan zure jabetzakoak diren proiektu guztiak <strong>blokeatuta</strong> geldituko direla zure kontua ezabatzen baduzu. Ez baduzu nahi proiektuak blokeatuta gelditzea, eskualdatu jabetza beste lankideren bati kontua ezabatu aurretik."
@@ -1109,11 +1109,11 @@
             "INVITE": "Gonbidatu",
             "CHOOSE_ROLE": "Hautatu rol bat",
             "PLACEHOLDER_INVITATION_TEXT": "(Hautazkoa) Gehitu testu pertsonalizatua gonbidapenari. Izan zaitez adeitsu lankide berriekin ;-)",
-            "HELP_TEXT": "Erabiltzailea dagoenekoz Taigan izena emana badago, automatikoki gehituko da. Bestela, gonbidapena jasoko du."
+            "HELP_TEXT": "Erabiltzailea dagoenekoz Nookipedia Tasksn izena emana badago, automatikoki gehituko da. Bestela, gonbidapena jasoko du."
         },
         "FEEDBACK": {
             "TITLE": "Esaiguzu zerbait…",
-            "COMMENT": "…akatsen bat, iradokizunen bat, alderdi politen bat… edo amesgaizto bat Taiga erabiltzerakoan.",
+            "COMMENT": "…akatsen bat, iradokizunen bat, alderdi politen bat… edo amesgaizto bat Nookipedia Tasks erabiltzerakoan.",
             "ACTION_SEND": "Bidali iruzkinak"
         },
         "SEARCH": {
@@ -1254,15 +1254,15 @@
         "RELATE_TO_EPIC": "Estekatu mugarri bati",
         "REMOVE_RELATIONSHIP_WITH_EPIC": "Ezabatu mugarriarekiko harremana",
         "TRIBE": {
-            "PUBLISH": "Argitaratu gig moduan Taiga Tribe-en",
+            "PUBLISH": "Argitaratu gig moduan Nookipedia Tasks Tribe-en",
             "PUBLISH_INFO": "Informazio gehiago",
-            "PUBLISH_TITLE": "Informazio gehiago Taiga Tribe-en argitaratzeaz",
-            "PUBLISHED_AS_GIG": "Eginkizuna gig moduan dago argitaratua Taiga Tribe-en",
+            "PUBLISH_TITLE": "Informazio gehiago Nookipedia Tasks Tribe-en argitaratzeaz",
+            "PUBLISHED_AS_GIG": "Eginkizuna gig moduan dago argitaratua Nookipedia Tasks Tribe-en",
             "EDIT_LINK": "Editatu esteka",
             "CLOSE": "Itxi",
-            "SYNCHRONIZE_LINK": "sinkronizatu Taiga Tribe-rekin",
+            "SYNCHRONIZE_LINK": "sinkronizatu Nookipedia Tasks Tribe-rekin",
             "PUBLISH_MORE_INFO_TITLE": "Beste inor behar duzu ataza honetan?",
-            "PUBLISH_MORE_INFO_TEXT": "<p>Laguntza behar baduzu lan jakin batetik, aise sor dezakezu <i>gig</i> bat hemen:<a href='http://taigatribe.com' title='Taiga Tribe'> Taiga Tribe </a>; komunitatearen laguntza jasoko duzu. Zure <i>gig</i> hori kontrolatu eta kudeatu ahal izango duzu, laguntzeko prest dagoen komunitate zabal baten laguntzaz.</p><p><a href='http://taigatribe.com' title='Taiga Tribe'> TaigaTribe </a>  Taiga senide bat da. Bi plataformak bereiz bizi daitezke, noski, baina uste dugu elkar indartzen ahal dutela batera erabiliz gero, eta lana atseginago bihurtzen dutela.</p>"
+            "PUBLISH_MORE_INFO_TEXT": "<p>Laguntza behar baduzu lan jakin batetik, aise sor dezakezu <i>gig</i> bat hemen:<a href='http://Nookipedia Taskstribe.com' title='Nookipedia Tasks Tribe'> Nookipedia Tasks Tribe </a>; komunitatearen laguntza jasoko duzu. Zure <i>gig</i> hori kontrolatu eta kudeatu ahal izango duzu, laguntzeko prest dagoen komunitate zabal baten laguntzaz.</p><p><a href='http://Nookipedia Taskstribe.com' title='Nookipedia Tasks Tribe'> Nookipedia TasksTribe </a>  Nookipedia Tasks senide bat da. Bi plataformak bereiz bizi daitezke, noski, baina uste dugu elkar indartzen ahal dutela batera erabiliz gero, eta lana atseginago bihurtzen dutela.</p>"
         }
     },
     "COMMENTS": {
@@ -1399,12 +1399,12 @@
         }
     },
     "ERROR": {
-        "TEXT1": "Arazoren bat gertatu da, Taigak errorea atzitu du konpondu ahal izateko.",
+        "TEXT1": "Arazoren bat gertatu da, Nookipedia Tasksk errorea atzitu du konpondu ahal izateko.",
         "NOT_FOUND": "Ezin da aurkitu",
-        "NOT_FOUND_TEXT": "Error 404. Bilatzen ari zaren orria ez dago. Agian Taigaren hasiera orrira itzul zaitezke eta saiatu aurkitzen",
+        "NOT_FOUND_TEXT": "Error 404. Bilatzen ari zaren orria ez dago. Agian Nookipedia Tasksren hasiera orrira itzul zaitezke eta saiatu aurkitzen",
         "PERMISSION_DENIED": "Ez duzu baimenik",
         "PERMISSION_DENIED_TEXT": "Ez duzu baimenik orri honetan sartzeko.",
-        "VERSION_ERROR": "Beste norbaitek aldatu du hau Taigan zuk baino lehenago; beraz, zure aldaketak ezin dira gorde. Gorde aldaketak beste nonbait, kargatu orria eta idatzi zure aldaketak berriro, bestela galdu egingo baitira."
+        "VERSION_ERROR": "Beste norbaitek aldatu du hau Nookipedia Tasksn zuk baino lehenago; beraz, zure aldaketak ezin dira gorde. Gorde aldaketak beste nonbait, kargatu orria eta idatzi zure aldaketak berriro, bestela galdu egingo baitira."
     },
     "TASKBOARD": {
         "PAGE_TITLE": "{{sprintName}} - urratsen ataza arbela - {{projectName}}",
@@ -1470,7 +1470,7 @@
         "OK": "Dena ongi joan da",
         "WARNING": "Otx, arazoren bat dago…",
         "WARNING_TEXT": "Zure aldaketak ez dira gorde!",
-        "SAVED": "Taigak gorde ditu zure aldaketa guztiak!",
+        "SAVED": "Nookipedia Tasksk gorde ditu zure aldaketa guztiak!",
         "CLOSE": "Itxi jakinarazpena",
         "MAIL": "Jakinarazpenak e-postaz",
         "DESKTOP": "Mahaigaineko jakinarazpenak nabigatzailearen alertak erabilita",
@@ -1478,24 +1478,24 @@
     },
     "CANCEL_ACCOUNT": {
         "TITLE": "Ezabatu zure kontua",
-        "SUBTITLE": "Ai ene, bazoaz Taigatik? Ongi ibili, hala ere :)",
+        "SUBTITLE": "Ai ene, bazoaz Nookipedia Taskstik? Ongi ibili, hala ere :)",
         "PLACEHOLDER_INPUT_TOKEN": "utzi kontuaren identifikatzailea",
         "ACTION_LEAVING": "Bai, banoa!",
-        "SUCCESS": "Taigak ezabatu egin du zure kontua"
+        "SUCCESS": "Nookipedia Tasksk ezabatu egin du zure kontua"
     },
     "CHANGE_EMAIL_FORM": {
         "TITLE": "Aldatu e-posta",
         "SUBTITLE": "Klik bat gehiago eginda, zure e-posta eguneratuta geldituko da!",
         "PLACEHOLDER_INPUT_TOKEN": "aldatu e-postaren identifikatzailea",
         "ACTION_CHANGE_EMAIL": "Aldatu e-posta",
-        "SUCCESS": "Taigak eguneratu du zure e-posta"
+        "SUCCESS": "Nookipedia Tasksk eguneratu du zure e-posta"
     },
     "VERIFY_EMAIL_FORM": {
         "TITLE": "Verify your email",
         "SUBTITLE": "One click more and your email will be verified!",
         "PLACEHOLDER_INPUT_TOKEN": "aldatu e-postaren identifikatzailea",
         "ACTION_VERIFY_EMAIL": "Verify email",
-        "SUCCESS": "The Taiga verified your email"
+        "SUCCESS": "Nookipedia Tasks verified your email"
     },
     "ISSUES": {
         "PAGE_TITLE": "Gertakariak - {{projectName}}",
@@ -1551,9 +1551,9 @@
         "PAGE_DESCRIPTION": "Egoera: {{issueStatus }}. Mota: {{issueType}}, lehentasuna: {{issuePriority}}. Larritasuna: {{issueSeverity}}. Azalpena: {{issueDescription}}"
     },
     "KANBAN": {
-        "PAGE_TITLE": "Kanban - {{projectName}}",
+        "PAGE_TITLE": "Tasks - {{projectName}}",
         "PAGE_DESCRIPTION": "Kanban panela, proiektu honen eginkizunekin: {{projectName}}: {{projectDescription}}",
-        "SECTION_NAME": "Kanban",
+        "SECTION_NAME": "Tasks",
         "TITLE_ACTION_FOLD": "Bildu zutabea",
         "TITLE_ACTION_UNFOLD": "Zabaldu zutabea",
         "TITLE_ACTION_ADD_US": "Gehitu eginkizun berri bat",
@@ -1628,7 +1628,7 @@
         },
         "EVENTS": {
             "SECTION_NAME": "Gertakizunak",
-            "SECTION_DESCRIPTION": "Garrantzizko gertakizuna Taiga buruan",
+            "SECTION_DESCRIPTION": "Garrantzizko gertakizuna Nookipedia Tasks buruan",
             "SECTION_DESCRIPTION_EXPANDED": "(aipamen zuzenak, begirale zaren osagaietan egindako aldaketak…)",
             "COLUMN_ENABLED": "Gaituta",
             "COLUMN_PROJECT": "Proiektua"
@@ -1636,8 +1636,8 @@
     },
     "USER_PROFILE": {
         "ACTION_USE_GRAVATAR": "Erabili irudi lehenetsia",
-        "ACTION_DELETE_ACCOUNT": "Ezabatu Taigako kontua",
-        "ACTION_DOWNLOAD_PROFILE": "Deskargatu Taiga soslaia",
+        "ACTION_DELETE_ACCOUNT": "Ezabatu Nookipedia Tasksko kontua",
+        "ACTION_DOWNLOAD_PROFILE": "Deskargatu Nookipedia Tasks soslaia",
         "ACTION_VERIFY_EMAIL": "Verify your email",
         "CHANGE_EMAIL_SUCCESS": "<strong>Begiratu zure e-posta!</strong><br />Mezu ba bidali dugu zure izenean<br />helbide berria ezartzeko jarraibideekin",
         "VERIFY_EMAIL_SUCCESS": "<strong>Check your inbox!</strong><br />We have sent you an email<br />with instructions on how to verify your address",
@@ -1688,7 +1688,7 @@
         "LINK": "Erabiltzen ikasi nahi baduzu, jo gure laguntza orrira",
         "LINK_TITLE": "Jo gure laguntza orrira",
         "HINT1_TITLE": "Badakizu proiektuak inportatu eta esportatu egin daitezkeela?",
-        "HINT1_TEXT": "Hemen Taiga baten datu guztiak atera eta beste batera eraman ditzakezu.",
+        "HINT1_TEXT": "Hemen Nookipedia Tasks baten datu guztiak atera eta beste batera eraman ditzakezu.",
         "HINT2_TITLE": "Badakizu eremu pertsonalizatuak sortu ditzakezula?",
         "HINT2_TEXT": "Lantaldeak eremu pertsonalizatuak sor ditzake, bakoitzaren lan kateari ongi egokitutako datuak jaso ahal izateko.",
         "HINT3_TITLE": "Jarri proiektuak zure hurrenkeraren arabera.",
@@ -1731,7 +1731,7 @@
         "US_REMOVED_FROM_MILESTONE": "{{username}} erabiltzaileak gehitu du eginkizun hau: {{obj_name}} atzeratutako lanera",
         "BLOCKED": "{{username}} erabiltzailea blokeatu du hau: {{obj_name}}",
         "UNBLOCKED": "{{username}} erabiltzailea desblokeatu du hau: {{obj_name}}",
-        "NEW_USER": "{{username}} erabiltzailea Taigan sartu da",
+        "NEW_USER": "{{username}} erabiltzailea Nookipedia Tasksn sartu da",
         "ITEM_TYPES": {
             "USERSTORY": "Eginkizuna",
             "ISSUE": "Gertakaria",
@@ -1761,7 +1761,7 @@
     "EXTERNAL_APP": {
         "PAGE_TITLE": "Kanpoko aplikazio batek baimentzea eskatzen du",
         "PAGE_DESCRIPTION": "Kanpoko aplikazio batek baimentzea eskatzen du",
-        "AUTHORIZATION_REQUEST": "Baimentzen duzu {{application}} zure Taiga kontua erabil dezan?",
+        "AUTHORIZATION_REQUEST": "Baimentzen duzu {{application}} zure Nookipedia Tasks kontua erabil dezan?",
         "LOGIN_WITH_ANOTHER_USER": "Hasi saioa beste erabiltzaile batez",
         "AUTHORIZE_APP": "Baimendu aplikazioa",
         "CANCEL": "Utzi"
@@ -1785,11 +1785,11 @@
             "STEP3": {
                 "TITLE": "Behatzen",
                 "TEXT1": "Eta hemen bertan aurkituko dituzu proiektuetan zuretzat esanguratsu diren osagaiak.",
-                "TEXT2": "Taigarekin lanean ari zara ;)"
+                "TEXT2": "Nookipedia Tasksrekin lanean ari zara ;)"
             },
             "STEP4": {
                 "TITLE": "Has gaitezen",
-                "TEXT1": "Hasi zaitezke zure lehen Taiga proiektu bat sortzen",
+                "TEXT1": "Hasi zaitezke zure lehen Nookipedia Tasks proiektu bat sortzen",
                 "TEXT2": "On egin!"
             }
         },
@@ -1829,8 +1829,8 @@
         }
     },
     "DISCOVER": {
-        "PAGE_TITLE": "Aurkitu Taigako proiektuak",
-        "PAGE_DESCRIPTION": "Taigako proiektu publikoen direktorioa Esploratu epeak, gertakariak eta lantaldeak Begiratu proiektu aktiboenak Iragazi Kanban edo Scrum-en arabera",
+        "PAGE_TITLE": "Aurkitu Nookipedia Tasksko proiektuak",
+        "PAGE_DESCRIPTION": "Nookipedia Tasksko proiektu publikoen direktorioa Esploratu epeak, gertakariak eta lantaldeak Begiratu proiektu aktiboenak Iragazi Kanban edo Scrum-en arabera",
         "DISCOVER_TITLE": "Aurkitu proiektuak",
         "DISCOVER_SUBTITLE": "{projects, plural, =1{Proiektu publiko bat ikusgarri} other{# proiektu publiko ikusgarri}}",
         "MOST_ACTIVE": "Aktiboena",
@@ -1842,7 +1842,7 @@
         "EMPTY": "Ez dago proiekturik bilaketa irizpide horiekin. <br> Saiatu berriro!",
         "FILTERS": {
             "ALL": "Guztiak",
-            "KANBAN": "Kanban",
+            "KANBAN": "Tasks",
             "SCRUM": "Scrum",
             "PEOPLE": "Lankideak bilatu",
             "WEEK": "Azken astea",
@@ -1852,8 +1852,8 @@
             "CLEAR": "Garbitu iragazkiak"
         },
         "SEARCH": {
-            "PAGE_TITLE": "Bilatu - Aurkitu proiektuak - Taiga",
-            "PAGE_DESCRIPTION": "Taigako proiektu publikoen direktorioa Esploratu epeak, gertakariak eta lantaldeak Begiratu proiektu aktiboenak Iragazi Kanban edo Scrum-en arabera",
+            "PAGE_TITLE": "Bilatu - Aurkitu proiektuak - Nookipedia Tasks",
+            "PAGE_DESCRIPTION": "Nookipedia Tasksko proiektu publikoen direktorioa Esploratu epeak, gertakariak eta lantaldeak Begiratu proiektu aktiboenak Iragazi Kanban edo Scrum-en arabera",
             "INPUT_PLACEHOLDER": "Idatzi zeozer…",
             "ACTION_TITLE": "Bilatu",
             "RESULTS": "Bilatu emaitzetan"
